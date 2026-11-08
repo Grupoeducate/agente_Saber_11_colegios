@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "colegios": [
+    {
+      "codigo_dane": "341001005431",
+      "nombre": "COL PIAGET",
+      "municipio_departamento": "NEIVA - HUILA",
+      "periodos_disponibles": [
+        "2024-3",
+        "2025-3",
+        "2026-3"
+      ],
+      "ruta": "colegios/341001005431/"
+    }
+  ]
+}

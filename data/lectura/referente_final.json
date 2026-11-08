@@ -1,0 +1,1608 @@
+{
+  "schema_version": "1.0.0",
+  "id": "S11-LC-CAPA-PEDAGOGICA",
+  "nombre": "Capa pedagógica final por afirmación - Lectura Crítica Saber 11",
+  "naturaleza": "Construcción analítica del proyecto, separada de la estructura oficial del DCE",
+  "referente_dce": "S11-LC-DCE",
+  "unidad_de_analisis": "afirmacion",
+  "fuentes_curriculares": [
+    {
+      "entidad": "Ministerio de Educación Nacional",
+      "documento": "Estándares Básicos de Competencias del Lenguaje",
+      "grados": "Décimo y undécimo",
+      "paginas_trabajadas": [
+        23,
+        24
+      ]
+    }
+  ],
+  "reglas": [
+    "La capa se desarrolla por afirmación y no por evidencia.",
+    "Las evidencias se conservan como referencias internas para asegurar trazabilidad.",
+    "Una afirmación puede relacionarse con varios componentes y varios referentes curriculares.",
+    "Las dificultades previsibles se formulan como hipótesis pedagógicas, no como diagnósticos automáticos.",
+    "Las orientaciones de interpretación deben declarar límites de inferencia y datos adicionales requeridos."
+  ],
+  "afirmaciones": [
+    {
+      "codigo_afirmacion": "LC-AF-01",
+      "texto_afirmacion": "Identifica y entiende los contenidos locales que conforman un texto.",
+      "evidencias_referenciadas": [
+        "LC-EV-01-01",
+        "LC-EV-01-02"
+      ],
+      "estado_elaboracion": "desarrollada_para_revision",
+      "componentes_relacionados": [
+        {
+          "codigo": "SEM",
+          "grado_relacion": "principal",
+          "justificacion": "La comprension local exige establecer el significado contextual de palabras, expresiones, enunciados y datos explicitos."
+        },
+        {
+          "codigo": "SIN",
+          "grado_relacion": "complementario",
+          "justificacion": "La organizacion de la oracion, la puntuacion, la concordancia y los mecanismos de referencia contribuyen a identificar quien realiza una accion, en que condiciones y con que relaciones."
+        },
+        {
+          "codigo": "PRA",
+          "grado_relacion": "condicional",
+          "justificacion": "Interviene cuando el significado local depende de la situacion comunicativa, del hablante, del destinatario o del uso contextual de una expresion."
+        }
+      ],
+      "tareas_asociadas": [
+        {
+          "codigo": "LC-AF01-T01",
+          "descripcion": "Determinar el significado contextual de una palabra o expresion explicita.",
+          "acciones_solicitadas": [
+            "identificar",
+            "seleccionar",
+            "explicar"
+          ],
+          "objetos_de_trabajo": [
+            "palabra",
+            "expresion",
+            "frase",
+            "enunciado"
+          ],
+          "estimulos_posibles": [
+            "texto continuo",
+            "caricatura",
+            "comic",
+            "aviso",
+            "infografia"
+          ],
+          "producto_observable": "Selecciona o formula un significado compatible con la informacion inmediata y global disponible.",
+          "variaciones_de_complejidad": [
+            "uso literal o figurado",
+            "presencia de polisemia",
+            "distancia entre la expresion y la clave contextual",
+            "densidad lexical",
+            "integracion de informacion verbal y no verbal"
+          ]
+        },
+        {
+          "codigo": "LC-AF01-T02",
+          "descripcion": "Localizar informacion explicita que responde a preguntas sobre personas, hechos, lugares, tiempos, causas o circunstancias.",
+          "acciones_solicitadas": [
+            "localizar",
+            "reconocer",
+            "recuperar"
+          ],
+          "objetos_de_trabajo": [
+            "dato explicito",
+            "hecho",
+            "accion",
+            "circunstancia"
+          ],
+          "estimulos_posibles": [
+            "narracion",
+            "descripcion",
+            "texto informativo",
+            "tabla",
+            "infografia"
+          ],
+          "producto_observable": "Ubica la informacion pertinente y evita seleccionar datos cercanos pero no equivalentes.",
+          "variaciones_de_complejidad": [
+            "cantidad de datos competidores",
+            "parafrasis entre pregunta y texto",
+            "informacion distribuida en varias oraciones",
+            "texto continuo o discontinuo"
+          ]
+        },
+        {
+          "codigo": "LC-AF01-T03",
+          "descripcion": "Identificar personajes, voces, acciones y eventos expresamente narrados.",
+          "acciones_solicitadas": [
+            "identificar",
+            "distinguir",
+            "ordenar"
+          ],
+          "objetos_de_trabajo": [
+            "personaje",
+            "voz",
+            "evento",
+            "secuencia explicita"
+          ],
+          "estimulos_posibles": [
+            "cuento",
+            "novela",
+            "cronica",
+            "comic",
+            "caricatura"
+          ],
+          "producto_observable": "Reconoce correctamente quien participa, que ocurre y las circunstancias explicitadas.",
+          "variaciones_de_complejidad": [
+            "cantidad de personajes",
+            "cambios de voz",
+            "saltos temporales",
+            "referentes pronominales",
+            "combinacion de texto e imagen"
+          ]
+        },
+        {
+          "codigo": "LC-AF01-T04",
+          "descripcion": "Establecer el referente de pronombres, expresiones de sustitucion o elementos de cohesion local.",
+          "acciones_solicitadas": [
+            "relacionar",
+            "reconocer",
+            "sustituir"
+          ],
+          "objetos_de_trabajo": [
+            "pronombre",
+            "elipsis",
+            "sinonimo",
+            "expresion referencial"
+          ],
+          "estimulos_posibles": [
+            "texto narrativo",
+            "texto expositivo",
+            "texto argumentativo"
+          ],
+          "producto_observable": "Vincula el elemento referencial con el antecedente compatible con el sentido del enunciado.",
+          "variaciones_de_complejidad": [
+            "distancia entre referente y antecedente",
+            "numero de antecedentes posibles",
+            "ambiguedad sintactica",
+            "elipsis"
+          ]
+        }
+      ],
+      "saberes": {
+        "conceptuales": [
+          {
+            "codigo": "LC-AF01-SC01",
+            "descripcion": "Significado contextual, literal y figurado de palabras y expresiones.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF01-SC02",
+            "descripcion": "Relaciones semanticas basicas: sinonimia, antonimia, polisemia, inclusion y asociacion contextual.",
+            "caracter": "complementario"
+          },
+          {
+            "codigo": "LC-AF01-SC03",
+            "descripcion": "Elementos explicitos de la narracion: personajes, acciones, espacio, tiempo y acontecimientos.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF01-SC04",
+            "descripcion": "Mecanismos locales de cohesion y referencia: pronombres, sustituciones, repeticiones y elipsis.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF01-SC05",
+            "descripcion": "Convenciones basicas de textos discontinuos y multimodales: etiquetas, titulos, leyendas, globos, ejes y relaciones texto-imagen.",
+            "caracter": "condicional"
+          }
+        ],
+        "procedimentales": [
+          {
+            "codigo": "LC-AF01-SP01",
+            "descripcion": "Rastrear en el texto la informacion solicitada y diferenciarla de datos cercanos no pertinentes.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF01-SP02",
+            "descripcion": "Usar claves lexicales, sintacticas y contextuales para precisar el significado de una expresion.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF01-SP03",
+            "descripcion": "Reformular un enunciado conservando su sentido local.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF01-SP04",
+            "descripcion": "Vincular pronombres y expresiones referenciales con sus antecedentes.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF01-SP05",
+            "descripcion": "Integrar informacion verbal y grafica cuando el dato explicito se distribuye entre ambos codigos.",
+            "caracter": "condicional"
+          },
+          {
+            "codigo": "LC-AF01-SP06",
+            "descripcion": "Verificar la respuesta regresando al fragmento y comprobando su compatibilidad con el texto.",
+            "caracter": "estrategico"
+          }
+        ]
+      },
+      "operaciones_cognitivas": [
+        {
+          "codigo": "LC-AF01-OC01",
+          "verbo": "localizar",
+          "descripcion": "Ubicar informacion explicita pertinente dentro del texto."
+        },
+        {
+          "codigo": "LC-AF01-OC02",
+          "verbo": "identificar",
+          "descripcion": "Reconocer elementos locales que cumplen la condicion planteada."
+        },
+        {
+          "codigo": "LC-AF01-OC03",
+          "verbo": "reconocer",
+          "descripcion": "Distinguir personajes, acciones, circunstancias, referentes y significados expresos."
+        },
+        {
+          "codigo": "LC-AF01-OC04",
+          "verbo": "discriminar",
+          "descripcion": "Separar la informacion pertinente de distractores textualmente cercanos."
+        },
+        {
+          "codigo": "LC-AF01-OC05",
+          "verbo": "parafrasear",
+          "descripcion": "Expresar con otras palabras el sentido de un elemento local sin alterarlo."
+        },
+        {
+          "codigo": "LC-AF01-OC06",
+          "verbo": "relacionar",
+          "descripcion": "Vincular una expresion referencial con su antecedente o una clave contextual con su significado."
+        },
+        {
+          "codigo": "LC-AF01-OC07",
+          "verbo": "verificar",
+          "descripcion": "Comprobar que la respuesta seleccionada se sostiene en informacion explicita del texto."
+        }
+      ],
+      "dificultades_previsibles": [
+        {
+          "codigo": "LC-AF01-DP01",
+          "dificultad": "Asigna a una palabra su significado mas frecuente sin considerar el contexto.",
+          "manifestacion_observable": "Selecciona una acepcion posible en abstracto, pero incompatible con la oracion o situacion.",
+          "hipotesis_asociadas": [
+            "uso insuficiente de claves contextuales",
+            "vocabulario limitado",
+            "lectura fragmentada"
+          ],
+          "advertencia": "Una respuesta aislada no permite determinar cual hipotesis explica el error."
+        },
+        {
+          "codigo": "LC-AF01-DP02",
+          "dificultad": "Confunde informacion explicitamente presentada con una inferencia o conocimiento externo.",
+          "manifestacion_observable": "Elige una opcion plausible, pero no expresada en el texto.",
+          "hipotesis_asociadas": [
+            "escasa distincion entre dato e inferencia",
+            "respuesta basada en saber previo",
+            "lectura apresurada"
+          ],
+          "advertencia": "Debe contrastarse con tareas paralelas y justificaciones del estudiante."
+        },
+        {
+          "codigo": "LC-AF01-DP03",
+          "dificultad": "No resuelve adecuadamente referentes pronominales o sustituciones.",
+          "manifestacion_observable": "Atribuye una accion o caracteristica al personaje, objeto o idea incorrectos.",
+          "hipotesis_asociadas": [
+            "debilidad en cohesion local",
+            "sobrecarga por distancia referencial",
+            "ambiguedad no resuelta"
+          ],
+          "advertencia": "Es necesario revisar si la dificultad persiste con diferentes extensiones y estructuras sintacticas."
+        },
+        {
+          "codigo": "LC-AF01-DP04",
+          "dificultad": "Selecciona datos por coincidencia lexical con la pregunta.",
+          "manifestacion_observable": "Escoge el fragmento que repite palabras del enunciado, aunque no responda a la relacion solicitada.",
+          "hipotesis_asociadas": [
+            "busqueda superficial",
+            "dificultad para comprender la pregunta",
+            "dependencia de palabras clave"
+          ],
+          "advertencia": "No debe interpretarse automaticamente como falta de comprension total del texto."
+        },
+        {
+          "codigo": "LC-AF01-DP05",
+          "dificultad": "Omite informacion explicita contenida en imagenes, tablas, etiquetas o convenciones graficas.",
+          "manifestacion_observable": "Responde solo con base en el fragmento verbal y desconoce elementos visuales pertinentes.",
+          "hipotesis_asociadas": [
+            "baja alfabetizacion multimodal",
+            "recorrido de lectura incompleto",
+            "desconocimiento de convenciones graficas"
+          ],
+          "advertencia": "Debe verificarse si el problema ocurre en todos los textos discontinuos o solo en formatos especificos."
+        }
+      ],
+      "indicadores_pedagogicos": [
+        {
+          "codigo": "LC-AF01-IP01",
+          "indicador": "Explica el significado de una palabra o expresion mediante claves presentes en la oracion y el parrafo.",
+          "evidencia_de_aula": "Subraya la clave contextual y justifica oralmente o por escrito su interpretacion.",
+          "criterio_de_logro": "El significado propuesto es compatible con el contexto y la justificacion cita al menos una clave textual."
+        },
+        {
+          "codigo": "LC-AF01-IP02",
+          "indicador": "Localiza informacion explicita y distingue el dato solicitado de informacion cercana.",
+          "evidencia_de_aula": "Senala el fragmento pertinente y explica por que responde a la pregunta.",
+          "criterio_de_logro": "Ubica el dato correcto sin depender exclusivamente de coincidencias lexicales."
+        },
+        {
+          "codigo": "LC-AF01-IP03",
+          "indicador": "Reconoce personajes, acciones, espacios, tiempos y acontecimientos expresamente presentados.",
+          "evidencia_de_aula": "Completa una ficha o linea de eventos con respaldo textual.",
+          "criterio_de_logro": "Diferencia elementos explicitos de interpretaciones o suposiciones propias."
+        },
+        {
+          "codigo": "LC-AF01-IP04",
+          "indicador": "Establece correctamente el antecedente de pronombres y expresiones referenciales.",
+          "evidencia_de_aula": "Sustituye el referente en el enunciado y verifica que se conserve el sentido.",
+          "criterio_de_logro": "La sustitucion mantiene coherencia semantica y concordancia."
+        },
+        {
+          "codigo": "LC-AF01-IP05",
+          "indicador": "Integra informacion verbal y no verbal para recuperar datos explicitos en textos discontinuos.",
+          "evidencia_de_aula": "Explica el aporte de titulos, leyendas, etiquetas, globos o elementos graficos.",
+          "criterio_de_logro": "La respuesta utiliza correctamente ambos codigos cuando la tarea lo requiere."
+        }
+      ],
+      "relaciones_curriculares": [
+        {
+          "factor": "Comprension e interpretacion textual",
+          "enunciado_identificador": "Comprendo e interpreto textos con actitud critica y capacidad argumentativa.",
+          "subprocesos_relacionados": [
+            "Elaboro hipotesis de interpretacion atendiendo a la intencion comunicativa y al sentido global del texto que leo.",
+            "Diseno un esquema de interpretacion, teniendo en cuenta el tipo de texto, tema, interlocutor e intencion comunicativa."
+          ],
+          "tipo_relacion": "directa_y_fundacional",
+          "justificacion": "La comprension critica requiere primero reconocer con precision los contenidos locales sobre los que se construye el sentido global."
+        },
+        {
+          "factor": "Literatura",
+          "enunciado_identificador": "Analizo critica y creativamente diferentes manifestaciones literarias del contexto universal.",
+          "subprocesos_relacionados": [
+            "Comprendo en los textos que leo las dimensiones eticas, esteticas y filosoficas, entre otras, que se evidencian en ellos."
+          ],
+          "tipo_relacion": "complementaria",
+          "justificacion": "La identificacion de personajes, eventos y expresiones explicitas constituye una base para interpretaciones literarias de mayor complejidad."
+        },
+        {
+          "factor": "Medios de comunicacion y otros sistemas simbolicos",
+          "enunciado_identificador": "Interpreto en forma critica la informacion difundida por los medios de comunicacion masiva.",
+          "subprocesos_relacionados": [
+            "Comprendo el papel que cumplen los medios de comunicacion masiva en el contexto social, cultural, economico y politico de las sociedades contemporaneas."
+          ],
+          "tipo_relacion": "condicional",
+          "justificacion": "En textos multimodales, la recuperacion de informacion explicita exige leer de manera integrada palabras, imagenes, etiquetas y convenciones graficas."
+        }
+      ],
+      "orientaciones_interpretacion_resultados": {
+        "lectura_resultado_alto": [
+          "Sugiere que el grupo resuelve favorablemente una proporcion importante de tareas de comprension local representadas por la afirmacion.",
+          "Es compatible con un manejo funcional de informacion explicita, significados contextualizados y referentes locales en los formatos incluidos en la prueba.",
+          "Debe comprobarse si el desempeno se mantiene entre textos continuos, discontinuos, literarios e informativos."
+        ],
+        "lectura_resultado_intermedio": [
+          "Puede indicar un dominio inestable que varia segun el vocabulario, la extension, el formato, la densidad de informacion o la cantidad de distractores.",
+          "Conviene desagregar por evidencia y aplicar tareas paralelas que distingan localizacion, significado contextual, referencia y lectura multimodal.",
+          "No debe asumirse que todos los estudiantes presentan la misma dificultad."
+        ],
+        "lectura_resultado_bajo": [
+          "Indica que una proporcion relevante del grupo no resolvio correctamente tareas asociadas con contenidos locales en esa aplicacion.",
+          "Justifica revisar sistematicamente significados contextuales, localizacion de datos, referentes y lectura de informacion explicita en distintos formatos.",
+          "No permite atribuir el resultado a una causa unica ni afirmar que el grupo carece completamente de comprension lectora."
+        ],
+        "limites_de_inferencia": [
+          "El resultado agregado de la afirmacion no identifica por si solo cual evidencia, tipo de texto o proceso produjo la dificultad.",
+          "No permite diagnosticar vocabulario limitado, falta de atencion, desconocimiento gramatical o ausencia de estrategias sin informacion adicional.",
+          "No permite generalizar automaticamente el resultado a todos los textos ni a todos los estudiantes.",
+          "El porcentaje de respuestas incorrectas depende tambien de las caracteristicas de los items y de los textos empleados."
+        ],
+        "informacion_para_contrastar": [
+          "Resultados desagregados por evidencia 1.1 y 1.2",
+          "Respuestas y justificaciones de los estudiantes en tareas paralelas",
+          "Desempeno separado en textos continuos y discontinuos",
+          "Desempeno separado en textos literarios e informativos",
+          "Muestras de evaluaciones internas y cuadernos de trabajo",
+          "Practicas de aula relacionadas con vocabulario contextual, cohesion y lectura multimodal"
+        ]
+      },
+      "validacion": {
+        "estado": "borrador_desarrollado",
+        "revisado_por": [],
+        "observaciones": [
+          "La propuesta debe ser revisada antes de declararse version validada.",
+          "Las relaciones curriculares se formularon con base en los estandares de decimo y undecimo previamente leidos.",
+          "Las dificultades son hipotesis de analisis pedagogico y no diagnosticos individuales."
+        ]
+      },
+      "alcance_pedagogico": "La afirmacion se concentra en la comprension de informacion explicita y de elementos locales del texto. Incluye reconocer significados contextualizados, referentes, personajes, acciones, circunstancias y eventos expresamente presentados, sin convertir la localizacion mecanica en el unico objeto de trabajo."
+    },
+    {
+      "codigo_afirmacion": "LC-AF-02",
+      "texto_afirmacion": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "evidencias_referenciadas": [
+        "LC-EV-02-01",
+        "LC-EV-02-02",
+        "LC-EV-02-03",
+        "LC-EV-02-04",
+        "LC-EV-02-05"
+      ],
+      "estado_elaboracion": "desarrollada_para_revision",
+      "componentes_relacionados": [
+        {
+          "codigo": "SEM",
+          "grado_relacion": "principal",
+          "justificacion": "La construccion del sentido global exige integrar significados locales, reconocer relaciones entre ideas y establecer temas, conclusiones e implicaciones internas."
+        },
+        {
+          "codigo": "SIN",
+          "grado_relacion": "principal",
+          "justificacion": "La afirmacion requiere comprender la estructura formal, la funcion de las partes, los conectores, la cohesion y la organizacion de secuencias y argumentos."
+        },
+        {
+          "codigo": "PRA",
+          "grado_relacion": "complementario",
+          "justificacion": "La identificacion de voces, situaciones comunicativas y funciones de segmentos puede depender del hablante, el destinatario, el proposito y el contexto de enunciacion."
+        }
+      ],
+      "tareas_asociadas": [
+        {
+          "codigo": "LC-AF02-T01",
+          "descripcion": "Reconocer la estructura global del texto y la funcion que cumple una de sus partes.",
+          "acciones_solicitadas": [
+            "reconocer",
+            "relacionar",
+            "explicar"
+          ],
+          "objetos_de_trabajo": [
+            "introduccion",
+            "desarrollo",
+            "conclusion",
+            "tesis",
+            "ejemplo",
+            "explicacion",
+            "contraargumento"
+          ],
+          "estimulos_posibles": [
+            "texto expositivo",
+            "texto argumentativo",
+            "ensayo",
+            "columna",
+            "cronica"
+          ],
+          "producto_observable": "Identifica la funcion de un fragmento dentro de la organizacion y el proposito global del texto.",
+          "variaciones_de_complejidad": [
+            "estructura explicita o implicita",
+            "extension del texto",
+            "numero de funciones posibles",
+            "presencia de digresiones",
+            "orden convencional o no convencional"
+          ]
+        },
+        {
+          "codigo": "LC-AF02-T02",
+          "descripcion": "Establecer relaciones logicas, semanticas o discursivas entre enunciados, parrafos o secciones.",
+          "acciones_solicitadas": [
+            "relacionar",
+            "inferir",
+            "clasificar"
+          ],
+          "objetos_de_trabajo": [
+            "causa-efecto",
+            "problema-solucion",
+            "comparacion",
+            "contraste",
+            "ejemplificacion",
+            "condicion",
+            "secuencia"
+          ],
+          "estimulos_posibles": [
+            "texto continuo",
+            "texto informativo",
+            "texto literario"
+          ],
+          "producto_observable": "Reconoce la relacion que articula dos o mas partes y explica su aporte al sentido global.",
+          "variaciones_de_complejidad": [
+            "conector explicito o implicito",
+            "distancia entre partes",
+            "relaciones multiples",
+            "parafrasis",
+            "ambiguedad local"
+          ]
+        },
+        {
+          "codigo": "LC-AF02-T03",
+          "descripcion": "Identificar y caracterizar voces, perspectivas o situaciones presentes en el texto.",
+          "acciones_solicitadas": [
+            "identificar",
+            "diferenciar",
+            "caracterizar"
+          ],
+          "objetos_de_trabajo": [
+            "narrador",
+            "autor textual",
+            "personaje",
+            "cita",
+            "interlocutor",
+            "punto de vista"
+          ],
+          "estimulos_posibles": [
+            "narracion",
+            "dialogo",
+            "cronica",
+            "columna de opinion",
+            "texto con citas"
+          ],
+          "producto_observable": "Distingue quien enuncia una idea, que posicion adopta y como se relaciona con otras voces.",
+          "variaciones_de_complejidad": [
+            "discurso directo o indirecto",
+            "polifonia",
+            "cambios de focalizacion",
+            "voces no identificadas expresamente",
+            "ironias"
+          ]
+        },
+        {
+          "codigo": "LC-AF02-T04",
+          "descripcion": "Identificar, jerarquizar y caracterizar ideas o afirmaciones de un texto informativo.",
+          "acciones_solicitadas": [
+            "identificar",
+            "jerarquizar",
+            "sintetizar"
+          ],
+          "objetos_de_trabajo": [
+            "tema",
+            "idea principal",
+            "ideas secundarias",
+            "tesis",
+            "razon",
+            "conclusion"
+          ],
+          "estimulos_posibles": [
+            "texto expositivo",
+            "texto argumentativo",
+            "ensayo",
+            "articulo",
+            "columna"
+          ],
+          "producto_observable": "Diferencia la idea central de ejemplos, detalles y apoyos, y reconstruye la organizacion conceptual.",
+          "variaciones_de_complejidad": [
+            "idea explicita o implicita",
+            "varias lineas argumentativas",
+            "informacion redundante",
+            "densidad conceptual",
+            "extension"
+          ]
+        },
+        {
+          "codigo": "LC-AF02-T05",
+          "descripcion": "Reconstruir el sentido global mediante una sintesis, titulo, conclusion o hipotesis compatible con el texto.",
+          "acciones_solicitadas": [
+            "integrar",
+            "sintetizar",
+            "concluir"
+          ],
+          "objetos_de_trabajo": [
+            "sentido global",
+            "tema",
+            "proposito interno",
+            "conclusion",
+            "titulo"
+          ],
+          "estimulos_posibles": [
+            "texto continuo",
+            "texto literario",
+            "texto informativo"
+          ],
+          "producto_observable": "Selecciona o formula una sintesis que integra las ideas nucleares sin introducir informacion ajena.",
+          "variaciones_de_complejidad": [
+            "cantidad de ideas",
+            "informacion implicita",
+            "nivel de abstraccion",
+            "distractores parcialmente correctos",
+            "multiples temas"
+          ]
+        },
+        {
+          "codigo": "LC-AF02-T06",
+          "descripcion": "Interpretar relaciones entre elementos de textos discontinuos o multimodales.",
+          "acciones_solicitadas": [
+            "integrar",
+            "comparar",
+            "interpretar"
+          ],
+          "objetos_de_trabajo": [
+            "dato",
+            "categoria",
+            "tendencia",
+            "leyenda",
+            "eje",
+            "imagen",
+            "texto de apoyo"
+          ],
+          "estimulos_posibles": [
+            "tabla",
+            "grafica",
+            "infografia",
+            "diagrama",
+            "aviso",
+            "caricatura"
+          ],
+          "producto_observable": "Establece correctamente la relacion entre elementos graficos y verbales para construir una interpretacion global.",
+          "variaciones_de_complejidad": [
+            "numero de variables",
+            "escalas",
+            "distribucion espacial",
+            "informacion implicita",
+            "integracion de varios codigos"
+          ]
+        }
+      ],
+      "saberes": {
+        "conceptuales": [
+          {
+            "codigo": "LC-AF02-SC01",
+            "descripcion": "Estructuras y secuencias textuales: narrativa, descriptiva, expositiva, explicativa y argumentativa.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF02-SC02",
+            "descripcion": "Funciones discursivas de las partes: presentar, definir, ejemplificar, explicar, contrastar, justificar, concluir y refutar.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF02-SC03",
+            "descripcion": "Relaciones logico-semanticas: causa, consecuencia, condicion, oposicion, comparacion, secuencia, problema y solucion.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF02-SC04",
+            "descripcion": "Coherencia global y cohesion: conectores, referencias, sustituciones, progresion tematica y continuidad de sentido.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF02-SC05",
+            "descripcion": "Voces del texto, enunciador, interlocutor, narrador, personajes, citas y puntos de vista.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF02-SC06",
+            "descripcion": "Tema, idea principal, ideas secundarias, tesis, argumentos, ejemplos y conclusion.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF02-SC07",
+            "descripcion": "Convenciones de textos discontinuos: ejes, escalas, leyendas, categorias, jerarquias visuales y relaciones espaciales.",
+            "caracter": "condicional"
+          }
+        ],
+        "procedimentales": [
+          {
+            "codigo": "LC-AF02-SP01",
+            "descripcion": "Segmentar el texto en unidades funcionales y determinar el aporte de cada una al conjunto.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF02-SP02",
+            "descripcion": "Rastrear cadenas de referencia y conectores para reconstruir relaciones entre enunciados.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF02-SP03",
+            "descripcion": "Jerarquizar ideas y diferenciar contenidos nucleares de ejemplos, detalles y reiteraciones.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF02-SP04",
+            "descripcion": "Comparar voces y posiciones para establecer acuerdos, tensiones o cambios de perspectiva.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF02-SP05",
+            "descripcion": "Formular una sintesis o conclusion compatible con la totalidad del texto.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF02-SP06",
+            "descripcion": "Integrar informacion distribuida entre texto, imagen, tabla, grafica o diagrama.",
+            "caracter": "condicional"
+          },
+          {
+            "codigo": "LC-AF02-SP07",
+            "descripcion": "Comprobar una interpretacion contrastandola con varias partes del texto y descartando contradicciones.",
+            "caracter": "estrategico"
+          }
+        ]
+      },
+      "operaciones_cognitivas": [
+        {
+          "codigo": "LC-AF02-OC01",
+          "verbo": "relacionar",
+          "descripcion": "Vincular partes, ideas, voces o elementos mediante una relacion pertinente."
+        },
+        {
+          "codigo": "LC-AF02-OC02",
+          "verbo": "integrar",
+          "descripcion": "Combinar informacion distribuida para construir una unidad de sentido."
+        },
+        {
+          "codigo": "LC-AF02-OC03",
+          "verbo": "jerarquizar",
+          "descripcion": "Distinguir ideas centrales, subordinadas, ejemplos y detalles."
+        },
+        {
+          "codigo": "LC-AF02-OC04",
+          "verbo": "caracterizar",
+          "descripcion": "Determinar rasgos y funciones de voces, ideas, estructuras o situaciones."
+        },
+        {
+          "codigo": "LC-AF02-OC05",
+          "verbo": "inferir",
+          "descripcion": "Derivar una relacion o conclusion interna respaldada por varias partes del texto."
+        },
+        {
+          "codigo": "LC-AF02-OC06",
+          "verbo": "sintetizar",
+          "descripcion": "Reducir el contenido a sus elementos nucleares sin distorsionar el sentido."
+        },
+        {
+          "codigo": "LC-AF02-OC07",
+          "verbo": "comparar",
+          "descripcion": "Establecer semejanzas, diferencias o tensiones entre elementos textuales."
+        },
+        {
+          "codigo": "LC-AF02-OC08",
+          "verbo": "secuenciar",
+          "descripcion": "Reconstruir el orden logico, temporal o argumentativo de los elementos."
+        },
+        {
+          "codigo": "LC-AF02-OC09",
+          "verbo": "verificar",
+          "descripcion": "Contrastar la interpretacion global con evidencias distribuidas en el texto."
+        }
+      ],
+      "dificultades_previsibles": [
+        {
+          "codigo": "LC-AF02-DP01",
+          "dificultad": "Comprende fragmentos de manera aislada, pero no integra sus relaciones.",
+          "manifestacion_observable": "Reconoce datos locales correctos y selecciona una conclusion global incompatible con el conjunto.",
+          "hipotesis_asociadas": [
+            "lectura fragmentada",
+            "escaso monitoreo de coherencia",
+            "sobrecarga por extension"
+          ],
+          "advertencia": "Debe contrastarse con textos de diferente longitud y estructura."
+        },
+        {
+          "codigo": "LC-AF02-DP02",
+          "dificultad": "Confunde la idea principal con un ejemplo, detalle o tema general.",
+          "manifestacion_observable": "Selecciona una afirmacion verdadera pero secundaria como sintesis del texto.",
+          "hipotesis_asociadas": [
+            "jerarquizacion insuficiente",
+            "dependencia de informacion llamativa",
+            "dificultad para abstraer"
+          ],
+          "advertencia": "Una respuesta incorrecta no determina por si sola si el problema es conceptual o estrategico."
+        },
+        {
+          "codigo": "LC-AF02-DP03",
+          "dificultad": "Interpreta conectores o relaciones logicas de manera inadecuada.",
+          "manifestacion_observable": "Confunde causa con consecuencia, contraste con adicion o condicion con afirmacion directa.",
+          "hipotesis_asociadas": [
+            "desconocimiento funcional de conectores",
+            "lectura lineal",
+            "baja sensibilidad a relaciones implicitas"
+          ],
+          "advertencia": "Debe verificarse con relaciones expresadas tanto explicita como implicitamente."
+        },
+        {
+          "codigo": "LC-AF02-DP04",
+          "dificultad": "No diferencia adecuadamente las voces o posiciones presentes en el texto.",
+          "manifestacion_observable": "Atribuye al autor una idea citada, ironica, refutada o expresada por un personaje.",
+          "hipotesis_asociadas": [
+            "dificultad con la polifonia",
+            "marcas de enunciacion no reconocidas",
+            "confusion entre autor y narrador"
+          ],
+          "advertencia": "La dificultad puede depender del tipo de texto y de la explicitud de las marcas de voz."
+        },
+        {
+          "codigo": "LC-AF02-DP05",
+          "dificultad": "Asigna una funcion incorrecta a un fragmento.",
+          "manifestacion_observable": "Interpreta un ejemplo como tesis, una objecion como posicion del autor o una conclusion como dato inicial.",
+          "hipotesis_asociadas": [
+            "desconocimiento de funciones discursivas",
+            "estructura no reconocida",
+            "lectura centrada en contenido local"
+          ],
+          "advertencia": "Debe contrastarse con estructuras textuales diversas, no solo argumentativas."
+        },
+        {
+          "codigo": "LC-AF02-DP06",
+          "dificultad": "Integra de forma parcial o incorrecta informacion de textos discontinuos.",
+          "manifestacion_observable": "Lee una cifra o etiqueta aislada, pero no considera escalas, categorias, leyendas o relaciones espaciales.",
+          "hipotesis_asociadas": [
+            "manejo insuficiente de convenciones graficas",
+            "recorrido visual incompleto",
+            "dificultad para integrar codigos"
+          ],
+          "advertencia": "Es necesario distinguir entre dificultades de lectura de datos y dificultades de interpretacion global."
+        },
+        {
+          "codigo": "LC-AF02-DP07",
+          "dificultad": "Construye conclusiones plausibles basadas en conocimiento previo, pero no respaldadas por el texto.",
+          "manifestacion_observable": "Selecciona una interpretacion tematicamente relacionada que introduce informacion externa.",
+          "hipotesis_asociadas": [
+            "control insuficiente de evidencia textual",
+            "activacion dominante de saber previo",
+            "verificacion limitada"
+          ],
+          "advertencia": "No debe confundirse automaticamente con ausencia de conocimientos; el problema puede ser de control de pertinencia."
+        }
+      ],
+      "indicadores_pedagogicos": [
+        {
+          "codigo": "LC-AF02-IP01",
+          "indicador": "Explica la funcion que cumple un parrafo o fragmento dentro de la estructura global.",
+          "evidencia_de_aula": "Segmenta el texto, asigna funciones y justifica cada decision con marcas textuales.",
+          "criterio_de_logro": "La funcion propuesta es coherente con el contenido del fragmento y su relacion con el conjunto."
+        },
+        {
+          "codigo": "LC-AF02-IP02",
+          "indicador": "Establece relaciones logicas y semanticas entre enunciados o parrafos.",
+          "evidencia_de_aula": "Construye un mapa de relaciones o completa conectores justificando su eleccion.",
+          "criterio_de_logro": "Reconoce correctamente la relacion y explica su efecto en la continuidad del texto."
+        },
+        {
+          "codigo": "LC-AF02-IP03",
+          "indicador": "Distingue y caracteriza las voces y posiciones presentes.",
+          "evidencia_de_aula": "Identifica quien habla, que sostiene y como se relaciona con otras voces.",
+          "criterio_de_logro": "No atribuye al autor posiciones citadas, cuestionadas, ironizadas o propias de personajes."
+        },
+        {
+          "codigo": "LC-AF02-IP04",
+          "indicador": "Jerarquiza ideas y diferencia tesis, razones, ejemplos, explicaciones y conclusiones.",
+          "evidencia_de_aula": "Elabora un esquema jerarquico del contenido del texto.",
+          "criterio_de_logro": "La organizacion conserva las relaciones de dependencia y prioridad entre ideas."
+        },
+        {
+          "codigo": "LC-AF02-IP05",
+          "indicador": "Formula una sintesis o conclusion compatible con la totalidad del texto.",
+          "evidencia_de_aula": "Propone un titulo, resumen o conclusion y senala los fragmentos que la respaldan.",
+          "criterio_de_logro": "Integra las ideas nucleares sin introducir contradicciones ni informacion ajena."
+        },
+        {
+          "codigo": "LC-AF02-IP06",
+          "indicador": "Interpreta relaciones entre datos, categorias y recursos verbales o graficos en textos discontinuos.",
+          "evidencia_de_aula": "Explica tendencias, comparaciones o relaciones usando ejes, escalas, leyendas y textos de apoyo.",
+          "criterio_de_logro": "La interpretacion incorpora las convenciones relevantes y relaciona correctamente los elementos."
+        }
+      ],
+      "relaciones_curriculares": [
+        {
+          "factor": "Comprension e interpretacion textual",
+          "enunciado_identificador": "Comprendo e interpreto textos con actitud critica y capacidad argumentativa.",
+          "subprocesos_relacionados": [
+            "Elaboro hipotesis de interpretacion atendiendo a la intencion comunicativa y al sentido global del texto que leo.",
+            "Relaciono el significado de los textos que leo con los contextos sociales, culturales y politicos en los cuales se han producido.",
+            "Diseno un esquema de interpretacion, teniendo en cuenta el tipo de texto, tema, interlocutor e intencion comunicativa."
+          ],
+          "tipo_relacion": "directa",
+          "justificacion": "La afirmacion operacionaliza la construccion del sentido global, la organizacion interpretativa y la articulacion entre partes del texto."
+        },
+        {
+          "factor": "Literatura",
+          "enunciado_identificador": "Analizo critica y creativamente diferentes manifestaciones literarias del contexto universal.",
+          "subprocesos_relacionados": [
+            "Comprendo en los textos que leo las dimensiones eticas, esteticas y filosoficas, entre otras, que se evidencian en ellos.",
+            "Comparo textos de diversos autores, temas, epocas y culturas, y utilizo recursos de la teoria literaria para enriquecer su interpretacion."
+          ],
+          "tipo_relacion": "complementaria",
+          "justificacion": "La interpretacion literaria exige integrar estructura, voces, secuencias y relaciones internas antes de formular lecturas criticas o comparativas."
+        },
+        {
+          "factor": "Medios de comunicacion y otros sistemas simbolicos",
+          "enunciado_identificador": "Interpreto en forma critica la informacion difundida por los medios de comunicacion masiva.",
+          "subprocesos_relacionados": [
+            "Analizo los mecanismos ideologicos que subyacen a la estructura de los medios de informacion masiva."
+          ],
+          "tipo_relacion": "complementaria_y_condicional",
+          "justificacion": "La comprension de medios y sistemas simbolicos requiere articular informacion verbal, visual y grafica, asi como reconocer la funcion de sus partes."
+        }
+      ],
+      "orientaciones_interpretacion_resultados": {
+        "lectura_resultado_alto": [
+          "Sugiere que el grupo articula favorablemente partes, ideas, voces y relaciones para construir el sentido global en una proporcion importante de las tareas aplicadas.",
+          "Es compatible con un manejo funcional de estructuras textuales, jerarquias de ideas, relaciones logicas y textos discontinuos incluidos en la prueba.",
+          "Debe verificarse si la fortaleza se mantiene entre textos literarios, expositivos, argumentativos y discontinuos."
+        ],
+        "lectura_resultado_intermedio": [
+          "Puede indicar que el grupo comprende algunas relaciones explicitas, pero presenta inestabilidad cuando las conexiones son implicitas, distantes o exigen integrar varios codigos.",
+          "Conviene desagregar por las evidencias 2.1 a 2.5 para distinguir estructura, voces, relaciones, ideas y textos discontinuos.",
+          "Puede existir heterogeneidad interna: estudiantes que reconocen ideas principales pueden no identificar voces o relaciones graficas, y viceversa."
+        ],
+        "lectura_resultado_bajo": [
+          "Indica que una proporcion relevante del grupo no resolvio adecuadamente tareas de articulacion e interpretacion global en esa aplicacion.",
+          "Justifica revisar la jerarquizacion de ideas, las funciones de las partes, las relaciones logicas, la distincion de voces y la integracion de textos discontinuos.",
+          "No permite concluir que el grupo carece de comprension global en todos los tipos de texto ni que existe una unica causa pedagogica."
+        ],
+        "limites_de_inferencia": [
+          "El resultado agregado no identifica cual de las cinco evidencias explica el desempeno observado.",
+          "No permite atribuir las dificultades exclusivamente a conectores, vocabulario, extension, atencion o conocimientos previos sin tareas diagnosticas adicionales.",
+          "No permite asumir un comportamiento uniforme entre textos continuos y discontinuos ni entre textos literarios e informativos.",
+          "La dificultad del item puede variar por densidad conceptual, cantidad de voces, explicitud de las relaciones, longitud y complejidad grafica."
+        ],
+        "informacion_para_contrastar": [
+          "Resultados desagregados por evidencias 2.1, 2.2, 2.3, 2.4 y 2.5",
+          "Desempeno separado por tipo y formato textual",
+          "Producciones de sintesis, esquemas, mapas de ideas y justificaciones de respuestas",
+          "Tareas diagnosticas sobre conectores, voces, funciones discursivas y textos discontinuos",
+          "Muestras de evaluaciones internas y planes de aula",
+          "Practicas docentes de modelado de lectura global, argumentacion y alfabetizacion multimodal"
+        ]
+      },
+      "validacion": {
+        "estado": "borrador_desarrollado",
+        "revisado_por": [],
+        "observaciones": [
+          "La propuesta debe revisarse antes de declararse validada.",
+          "Las relaciones curriculares se formularon con base en los estandares de decimo y undecimo previamente leidos.",
+          "Las dificultades previsibles son hipotesis de analisis pedagogico, no diagnosticos individuales ni causales."
+        ]
+      },
+      "alcance_pedagogico": "La afirmacion se concentra en la construccion del sentido global mediante la articulacion de partes, voces, ideas, enunciados y elementos verbales o graficos. Exige superar la localizacion aislada para reconocer relaciones, jerarquias, funciones y patrones de organizacion que permiten interpretar el texto como una unidad coherente."
+    },
+    {
+      "codigo_afirmacion": "LC-AF-03",
+      "texto_afirmacion": "Reflexiona a partir de un texto y evalúa su contenido.",
+      "evidencias_referenciadas": [
+        "LC-EV-03-01",
+        "LC-EV-03-02",
+        "LC-EV-03-03",
+        "LC-EV-03-04",
+        "LC-EV-03-05"
+      ],
+      "estado_elaboracion": "desarrollada_para_revision",
+      "componentes_relacionados": [
+        {
+          "codigo": "SEM",
+          "grado_relacion": "principal",
+          "justificacion": "La evaluación crítica requiere comprender tesis, argumentos, supuestos, valoraciones e implicaciones semánticas antes de juzgar su consistencia y alcance."
+        },
+        {
+          "codigo": "SIN",
+          "grado_relacion": "complementario",
+          "justificacion": "La organización argumentativa, la relación entre premisas y conclusiones, y la disposición de recursos discursivos aportan evidencia para evaluar la construcción del texto."
+        },
+        {
+          "codigo": "PRA",
+          "grado_relacion": "principal",
+          "justificacion": "La afirmación exige reconocer intención comunicativa, audiencia, contexto, posicionamientos, estrategias retóricas y efectos posibles del discurso."
+        }
+      ],
+      "tareas_asociadas": [
+        {
+          "codigo": "LC-AF03-T01",
+          "descripcion": "Evaluar la validez, suficiencia o pertinencia de un enunciado, razón, argumento o conclusión.",
+          "acciones_solicitadas": [
+            "evaluar",
+            "contrastar",
+            "justificar"
+          ],
+          "objetos_de_trabajo": [
+            "tesis",
+            "premisa",
+            "evidencia",
+            "argumento",
+            "conclusión"
+          ],
+          "estimulos_posibles": [
+            "ensayo",
+            "columna de opinión",
+            "texto expositivo",
+            "artículo divulgativo",
+            "debate"
+          ],
+          "producto_observable": "Emite un juicio respaldado por la relación entre las afirmaciones y la evidencia disponible en el texto.",
+          "variaciones_de_complejidad": [
+            "supuestos implícitos",
+            "evidencia parcial",
+            "generalizaciones",
+            "relaciones causales",
+            "argumentos plausibles pero insuficientes"
+          ]
+        },
+        {
+          "codigo": "LC-AF03-T02",
+          "descripcion": "Derivar implicaciones, consecuencias o supuestos de una afirmación o postura.",
+          "acciones_solicitadas": [
+            "inferir",
+            "proyectar",
+            "examinar"
+          ],
+          "objetos_de_trabajo": [
+            "implicación",
+            "consecuencia",
+            "supuesto",
+            "alcance",
+            "condición"
+          ],
+          "estimulos_posibles": [
+            "texto argumentativo",
+            "texto filosófico",
+            "texto científico divulgativo",
+            "caricatura"
+          ],
+          "producto_observable": "Identifica una consecuencia o supuesto compatible con la lógica y el alcance de lo afirmado.",
+          "variaciones_de_complejidad": [
+            "distancia inferencial",
+            "información implícita",
+            "múltiples consecuencias",
+            "condiciones omitidas",
+            "nivel de abstracción"
+          ]
+        },
+        {
+          "codigo": "LC-AF03-T03",
+          "descripcion": "Relacionar el contenido, la postura o la estrategia de un texto con otro texto o enunciado.",
+          "acciones_solicitadas": [
+            "comparar",
+            "contrastar",
+            "establecer relaciones"
+          ],
+          "objetos_de_trabajo": [
+            "tesis",
+            "tema",
+            "perspectiva",
+            "argumento",
+            "tratamiento discursivo"
+          ],
+          "estimulos_posibles": [
+            "dos textos continuos",
+            "texto e imagen",
+            "texto y cita",
+            "caricatura y columna",
+            "fuentes con perspectivas distintas"
+          ],
+          "producto_observable": "Reconoce coincidencias, diferencias, complementariedades o contradicciones con respaldo en ambos textos.",
+          "variaciones_de_complejidad": [
+            "fuentes heterogéneas",
+            "relaciones implícitas",
+            "perspectivas parciales",
+            "diferencia de género textual",
+            "distancia histórica o cultural"
+          ]
+        },
+        {
+          "codigo": "LC-AF03-T04",
+          "descripcion": "Reconocer valoraciones, sesgos, supuestos ideológicos o posiciones presentes en el texto.",
+          "acciones_solicitadas": [
+            "reconocer",
+            "caracterizar",
+            "interpretar"
+          ],
+          "objetos_de_trabajo": [
+            "valoración",
+            "juicio",
+            "sesgo",
+            "ideología",
+            "punto de vista"
+          ],
+          "estimulos_posibles": [
+            "columna",
+            "publicidad",
+            "caricatura",
+            "crónica",
+            "discurso público"
+          ],
+          "producto_observable": "Identifica marcas lingüísticas o visuales que revelan una posición y explica su efecto en la representación del tema.",
+          "variaciones_de_complejidad": [
+            "valoración explícita o implícita",
+            "ironía",
+            "eufemismo",
+            "selección de información",
+            "estereotipos"
+          ]
+        },
+        {
+          "codigo": "LC-AF03-T05",
+          "descripcion": "Reconocer y valorar estrategias discursivas, argumentativas o retóricas.",
+          "acciones_solicitadas": [
+            "identificar",
+            "analizar",
+            "evaluar"
+          ],
+          "objetos_de_trabajo": [
+            "analogía",
+            "ejemplo",
+            "cita de autoridad",
+            "pregunta retórica",
+            "ironía",
+            "apelación emotiva",
+            "contraargumento"
+          ],
+          "estimulos_posibles": [
+            "texto argumentativo",
+            "publicidad",
+            "discurso",
+            "ensayo",
+            "caricatura"
+          ],
+          "producto_observable": "Explica qué estrategia usa el texto, qué propósito cumple y qué efecto puede producir en la audiencia.",
+          "variaciones_de_complejidad": [
+            "estrategias combinadas",
+            "propósito implícito",
+            "audiencias diversas",
+            "recursos verbales y visuales",
+            "uso legítimo o manipulador"
+          ]
+        },
+        {
+          "codigo": "LC-AF03-T06",
+          "descripcion": "Contextualizar el texto o la información atendiendo a sus condiciones sociales, culturales, históricas, políticas o comunicativas.",
+          "acciones_solicitadas": [
+            "contextualizar",
+            "relacionar",
+            "explicar"
+          ],
+          "objetos_de_trabajo": [
+            "autor",
+            "audiencia",
+            "época",
+            "situación comunicativa",
+            "medio de circulación",
+            "problemática social"
+          ],
+          "estimulos_posibles": [
+            "texto literario",
+            "texto histórico",
+            "medio de comunicación",
+            "publicidad",
+            "discurso institucional"
+          ],
+          "producto_observable": "Explica cómo las condiciones de producción o circulación inciden en el sentido, la postura o el efecto del texto.",
+          "variaciones_de_complejidad": [
+            "contexto explícito o inferido",
+            "distancia cultural",
+            "anacronismo",
+            "cambio de audiencia",
+            "circulación en medios distintos"
+          ]
+        },
+        {
+          "codigo": "LC-AF03-T07",
+          "descripcion": "Valorar la adecuación de la forma, el registro o los recursos del texto frente a su propósito y audiencia.",
+          "acciones_solicitadas": [
+            "valorar",
+            "relacionar",
+            "justificar"
+          ],
+          "objetos_de_trabajo": [
+            "registro",
+            "tono",
+            "género",
+            "recurso visual",
+            "organización",
+            "audiencia"
+          ],
+          "estimulos_posibles": [
+            "carta",
+            "aviso",
+            "editorial",
+            "infografía",
+            "campaña",
+            "texto académico"
+          ],
+          "producto_observable": "Determina si las decisiones discursivas son coherentes con el propósito y el destinatario, y justifica su juicio.",
+          "variaciones_de_complejidad": [
+            "audiencia implícita",
+            "propósitos múltiples",
+            "tono irónico",
+            "géneros híbridos",
+            "recursos multimodales"
+          ]
+        }
+      ],
+      "saberes": {
+        "conceptuales": [
+          {
+            "codigo": "LC-AF03-SC01",
+            "descripcion": "Tesis, argumentos, premisas, evidencias, conclusiones, supuestos e implicaciones.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF03-SC02",
+            "descripcion": "Criterios básicos de validez, pertinencia, suficiencia, consistencia y confiabilidad de la información.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF03-SC03",
+            "descripcion": "Estrategias argumentativas y retóricas: ejemplificación, analogía, autoridad, refutación, ironía, pregunta retórica y apelaciones.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF03-SC04",
+            "descripcion": "Contenidos valorativos, modalización, sesgo, estereotipo, punto de vista y posicionamiento ideológico.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF03-SC05",
+            "descripcion": "Intención comunicativa, audiencia, propósito, género, registro, tono y situación de enunciación.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF03-SC06",
+            "descripcion": "Contextos sociales, culturales, históricos, políticos y mediáticos relevantes para la interpretación.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF03-SC07",
+            "descripcion": "Relaciones intertextuales: coincidencia, contraste, complementariedad, reformulación, alusión y contradicción.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF03-SC08",
+            "descripcion": "Recursos multimodales y su función persuasiva o valorativa en textos discontinuos.",
+            "caracter": "condicional"
+          }
+        ],
+        "procedimentales": [
+          {
+            "codigo": "LC-AF03-SP01",
+            "descripcion": "Reconstruir la línea argumentativa y verificar la relación entre razones, evidencia y conclusión.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF03-SP02",
+            "descripcion": "Distinguir hechos, opiniones, valoraciones, supuestos e inferencias.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF03-SP03",
+            "descripcion": "Contrastar una afirmación con la evidencia textual y detectar omisiones, inconsistencias o generalizaciones.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF03-SP04",
+            "descripcion": "Comparar textos mediante criterios comunes y sustentar coincidencias o diferencias.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF03-SP05",
+            "descripcion": "Identificar marcas lingüísticas, visuales y discursivas que expresan intención, valoración o sesgo.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF03-SP06",
+            "descripcion": "Relacionar decisiones de forma y contenido con el propósito, la audiencia y el contexto.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF03-SP07",
+            "descripcion": "Derivar implicaciones controlando que se mantengan dentro de lo permitido por el texto.",
+            "caracter": "esencial"
+          },
+          {
+            "codigo": "LC-AF03-SP08",
+            "descripcion": "Formular un juicio crítico explícitamente respaldado con evidencias y criterios.",
+            "caracter": "estratégico"
+          },
+          {
+            "codigo": "LC-AF03-SP09",
+            "descripcion": "Revisar el propio juicio para diferenciar desacuerdo personal de evaluación argumentada.",
+            "caracter": "metacognitivo"
+          }
+        ]
+      },
+      "operaciones_cognitivas": [
+        {
+          "codigo": "LC-AF03-OC01",
+          "verbo": "evaluar",
+          "descripcion": "Juzgar la validez, pertinencia o suficiencia de una afirmación mediante criterios explícitos."
+        },
+        {
+          "codigo": "LC-AF03-OC02",
+          "verbo": "reflexionar",
+          "descripcion": "Tomar distancia del contenido y examinar sus presupuestos, alcances y efectos."
+        },
+        {
+          "codigo": "LC-AF03-OC03",
+          "verbo": "contrastar",
+          "descripcion": "Comparar afirmaciones, perspectivas o textos para identificar acuerdos y diferencias."
+        },
+        {
+          "codigo": "LC-AF03-OC04",
+          "verbo": "inferir",
+          "descripcion": "Derivar supuestos, implicaciones o consecuencias respaldadas por el texto."
+        },
+        {
+          "codigo": "LC-AF03-OC05",
+          "verbo": "contextualizar",
+          "descripcion": "Relacionar el texto con sus condiciones de producción, circulación y recepción."
+        },
+        {
+          "codigo": "LC-AF03-OC06",
+          "verbo": "reconocer",
+          "descripcion": "Identificar valoraciones, sesgos, estrategias y marcas de posicionamiento."
+        },
+        {
+          "codigo": "LC-AF03-OC07",
+          "verbo": "analizar",
+          "descripcion": "Descomponer la estrategia discursiva y establecer la función de sus recursos."
+        },
+        {
+          "codigo": "LC-AF03-OC08",
+          "verbo": "determinar",
+          "descripcion": "Precisar la intención, la audiencia, el propósito o el alcance de un enunciado."
+        },
+        {
+          "codigo": "LC-AF03-OC09",
+          "verbo": "justificar",
+          "descripcion": "Sustentar una valoración con criterios y evidencia textual pertinente."
+        },
+        {
+          "codigo": "LC-AF03-OC10",
+          "verbo": "autorregular",
+          "descripcion": "Revisar la interpretación crítica para evitar juicios basados solo en preferencias o saberes externos."
+        }
+      ],
+      "dificultades_previsibles": [
+        {
+          "codigo": "LC-AF03-DP01",
+          "dificultad": "Confunde evaluar un argumento con expresar acuerdo o desacuerdo personal.",
+          "manifestacion_observable": "Emite una opinión sobre el tema sin examinar las razones ni la evidencia del texto.",
+          "hipotesis_asociadas": [
+            "criterios de evaluación poco explícitos",
+            "predominio de respuesta subjetiva",
+            "escasa argumentación de juicios"
+          ],
+          "advertencia": "El desacuerdo con el texto no constituye por sí mismo una lectura crítica."
+        },
+        {
+          "codigo": "LC-AF03-DP02",
+          "dificultad": "Acepta una conclusión plausible sin verificar la suficiencia o pertinencia de sus razones.",
+          "manifestacion_observable": "Valida un argumento por familiaridad temática, autoridad aparente o coincidencia con creencias previas.",
+          "hipotesis_asociadas": [
+            "monitoreo argumentativo insuficiente",
+            "dependencia de conocimiento previo",
+            "criterios de evidencia débiles"
+          ],
+          "advertencia": "Debe contrastarse con argumentos de temas familiares y no familiares."
+        },
+        {
+          "codigo": "LC-AF03-DP03",
+          "dificultad": "No distingue hechos, opiniones, valoraciones y supuestos.",
+          "manifestacion_observable": "Interpreta un juicio valorativo como dato objetivo o no reconoce una condición implícita.",
+          "hipotesis_asociadas": [
+            "marcas de modalización no reconocidas",
+            "lectura literal",
+            "desconocimiento de categorías argumentativas"
+          ],
+          "advertencia": "La dificultad puede variar con el género, el tono y el grado de explicitud."
+        },
+        {
+          "codigo": "LC-AF03-DP04",
+          "dificultad": "Reconoce un recurso discursivo, pero no explica su función o efecto.",
+          "manifestacion_observable": "Identifica una cita, ironía o pregunta retórica sin relacionarla con el propósito del texto.",
+          "hipotesis_asociadas": [
+            "análisis formal aislado",
+            "propósito comunicativo no reconstruido",
+            "vínculo forma-función insuficiente"
+          ],
+          "advertencia": "Nombrar un recurso no equivale a comprender su papel argumentativo."
+        },
+        {
+          "codigo": "LC-AF03-DP05",
+          "dificultad": "Deriva implicaciones que exceden lo permitido por el texto.",
+          "manifestacion_observable": "Formula consecuencias posibles en la realidad, pero no necesarias ni respaldadas por la afirmación analizada.",
+          "hipotesis_asociadas": [
+            "control inferencial limitado",
+            "generalización apresurada",
+            "incorporación de información externa"
+          ],
+          "advertencia": "Debe diferenciarse creatividad interpretativa de inferencia textual válida."
+        },
+        {
+          "codigo": "LC-AF03-DP06",
+          "dificultad": "Compara textos por el tema general y no por sus posturas, argumentos o estrategias.",
+          "manifestacion_observable": "Afirma que dos textos son equivalentes porque hablan del mismo asunto, aunque sostengan posiciones distintas.",
+          "hipotesis_asociadas": [
+            "criterios de comparación imprecisos",
+            "síntesis superficial",
+            "dificultad para abstraer posturas"
+          ],
+          "advertencia": "La intertextualidad exige definir previamente el aspecto específico de comparación."
+        },
+        {
+          "codigo": "LC-AF03-DP07",
+          "dificultad": "Descontextualiza el texto o aplica categorías actuales sin considerar sus condiciones de producción.",
+          "manifestacion_observable": "Atribuye sentidos, intenciones o juicios ignorando época, audiencia, medio o situación comunicativa.",
+          "hipotesis_asociadas": [
+            "información contextual insuficiente",
+            "anacronismo",
+            "lectura centrada solo en contenido explícito"
+          ],
+          "advertencia": "La contextualización debe apoyarse en información disponible o razonablemente inferible, no en especulación."
+        },
+        {
+          "codigo": "LC-AF03-DP08",
+          "dificultad": "No reconoce sesgos, estereotipos o selecciones interesadas de información.",
+          "manifestacion_observable": "Interpreta como neutral una representación marcada por adjetivos, omisiones, encuadres visuales o generalizaciones.",
+          "hipotesis_asociadas": [
+            "baja sensibilidad a la modalización",
+            "alfabetización mediática limitada",
+            "naturalización de estereotipos"
+          ],
+          "advertencia": "La identificación de sesgo debe justificarse con marcas del texto y no solo con desacuerdo ideológico."
+        }
+      ],
+      "indicadores_pedagogicos": [
+        {
+          "codigo": "LC-AF03-IP01",
+          "indicador": "Evalúa la relación entre tesis, razones, evidencias y conclusión mediante criterios explícitos.",
+          "evidencia_de_aula": "Completa una matriz argumentativa y emite un juicio sustentado.",
+          "criterio_de_logro": "El juicio distingue validez, pertinencia y suficiencia, y cita evidencia textual."
+        },
+        {
+          "codigo": "LC-AF03-IP02",
+          "indicador": "Distingue hechos, opiniones, valoraciones, supuestos e implicaciones.",
+          "evidencia_de_aula": "Clasifica enunciados y explica las marcas que respaldan cada clasificación.",
+          "criterio_de_logro": "La clasificación es consistente con la función y el grado de respaldo de los enunciados."
+        },
+        {
+          "codigo": "LC-AF03-IP03",
+          "indicador": "Relaciona dos textos atendiendo a sus tesis, perspectivas, argumentos o estrategias.",
+          "evidencia_de_aula": "Elabora un cuadro comparativo con fragmentos de respaldo de ambas fuentes.",
+          "criterio_de_logro": "La relación supera la coincidencia temática y se sustenta en criterios definidos."
+        },
+        {
+          "codigo": "LC-AF03-IP04",
+          "indicador": "Reconoce contenidos valorativos, sesgos o posicionamientos y justifica su interpretación.",
+          "evidencia_de_aula": "Identifica adjetivos, modalizadores, selecciones, omisiones o recursos visuales relevantes.",
+          "criterio_de_logro": "La valoración atribuida se apoya en marcas verificables del texto."
+        },
+        {
+          "codigo": "LC-AF03-IP05",
+          "indicador": "Explica la función y el efecto de estrategias discursivas o retóricas.",
+          "evidencia_de_aula": "Analiza una cita, analogía, ironía, pregunta retórica o apelación en relación con el propósito.",
+          "criterio_de_logro": "Vincula correctamente recurso, intención, audiencia y efecto posible."
+        },
+        {
+          "codigo": "LC-AF03-IP06",
+          "indicador": "Contextualiza un texto considerando autor, época, audiencia, medio y situación comunicativa.",
+          "evidencia_de_aula": "Construye una ficha de contexto y explica cómo modifica la interpretación.",
+          "criterio_de_logro": "La contextualización es pertinente, verificable y se relaciona directamente con el sentido del texto."
+        },
+        {
+          "codigo": "LC-AF03-IP07",
+          "indicador": "Formula y revisa un juicio crítico sustentado, diferenciándolo de una preferencia personal.",
+          "evidencia_de_aula": "Escribe una valoración breve con criterio, evidencia, contraargumento y conclusión.",
+          "criterio_de_logro": "El juicio es coherente, considera una objeción y permanece respaldado por el texto."
+        }
+      ],
+      "relaciones_curriculares": [
+        {
+          "factor": "Comprensión e interpretación textual",
+          "enunciado_identificador": "Comprendo e interpreto textos con actitud crítica y capacidad argumentativa.",
+          "subprocesos_relacionados": [
+            "Elaboro hipótesis de interpretación atendiendo a la intención comunicativa y al sentido global del texto que leo.",
+            "Relaciono el significado de los textos que leo con los contextos sociales, culturales y políticos en los cuales se han producido.",
+            "Asumo una actitud crítica frente a los textos que leo y elaboro, y frente a otros tipos de texto: explicativos, descriptivos y narrativos."
+          ],
+          "tipo_relacion": "directa",
+          "justificacion": "La afirmación concreta la actitud crítica y argumentativa al exigir evaluación, contextualización y reflexión sobre contenidos y formas."
+        },
+        {
+          "factor": "Literatura",
+          "enunciado_identificador": "Analizo crítica y creativamente diferentes manifestaciones literarias del contexto universal.",
+          "subprocesos_relacionados": [
+            "Comprendo en los textos que leo las dimensiones éticas, estéticas y filosóficas, entre otras, que se evidencian en ellos.",
+            "Comparo textos de diversos autores, temas, épocas y culturas, y utilizo recursos de la teoría literaria para enriquecer su interpretación."
+          ],
+          "tipo_relacion": "directa_y_complementaria",
+          "justificacion": "La lectura literaria crítica exige reconocer valoraciones, contextos, recursos y relaciones intertextuales."
+        },
+        {
+          "factor": "Medios de comunicación y otros sistemas simbólicos",
+          "enunciado_identificador": "Interpreto en forma crítica la información difundida por los medios de comunicación masiva.",
+          "subprocesos_relacionados": [
+            "Comprendo el papel que cumplen los medios de comunicación masiva en el contexto social, cultural, económico y político de las sociedades contemporáneas.",
+            "Analizo los mecanismos ideológicos que subyacen a la estructura de los medios de información masiva."
+          ],
+          "tipo_relacion": "directa",
+          "justificacion": "La evaluación de sesgos, estrategias, audiencias y efectos es central para la lectura crítica de medios y textos multimodales."
+        },
+        {
+          "factor": "Ética de la comunicación",
+          "enunciado_identificador": "Expreso respeto por la diversidad cultural y social del mundo contemporáneo, en las situaciones comunicativas en las que intervengo.",
+          "subprocesos_relacionados": [
+            "Identifico, caracterizo y valoro diferentes grupos humanos teniendo en cuenta aspectos étnicos, lingüísticos, sociales y culturales, entre otros, del mundo contemporáneo.",
+            "Respeto la diversidad de criterios y posiciones ideológicas que surgen en los grupos humanos."
+          ],
+          "tipo_relacion": "complementaria",
+          "justificacion": "La lectura crítica debe distinguir comprensión y evaluación de una postura, evitando descalificaciones y reconociendo diversidad de perspectivas."
+        },
+        {
+          "factor": "Producción textual",
+          "enunciado_identificador": "Produzco textos argumentativos que evidencian mi conocimiento de la lengua y el control sobre el uso que hago de ella en contextos comunicativos orales y escritos.",
+          "subprocesos_relacionados": [
+            "Desarrollo procesos de autocontrol y corrección lingüística en mi producción de textos orales y escritos.",
+            "Evidencio en mis producciones textuales el conocimiento de los diferentes niveles de la lengua y el control sobre el uso que hago de ellos en contextos comunicativos."
+          ],
+          "tipo_relacion": "complementaria",
+          "justificacion": "La producción argumentada permite hacer observable la capacidad de formular, sustentar y revisar juicios críticos sobre los textos."
+        }
+      ],
+      "orientaciones_interpretacion_resultados": {
+        "lectura_resultado_alto": [
+          "Sugiere que el grupo evalúa favorablemente argumentos, implicaciones, valoraciones, estrategias y contextos en una proporción importante de las tareas aplicadas.",
+          "Es compatible con una capacidad funcional para tomar distancia del texto y justificar juicios con evidencia, dentro de los géneros y formatos incluidos en la prueba.",
+          "Debe verificarse si la fortaleza se mantiene en textos argumentativos, filosóficos, literarios, mediáticos y multimodales."
+        ],
+        "lectura_resultado_intermedio": [
+          "Puede indicar que el grupo reconoce posturas y recursos explícitos, pero presenta inestabilidad al evaluar supuestos, implicaciones, sesgos o estrategias implícitas.",
+          "Conviene desagregar por las evidencias 3.1 a 3.5 para distinguir evaluación de enunciados, intertextualidad, valoraciones, estrategias discursivas y contextualización.",
+          "Puede haber estudiantes que contextualizan adecuadamente, pero no evalúan la suficiencia de argumentos, o que reconocen estrategias sin explicar su efecto."
+        ],
+        "lectura_resultado_bajo": [
+          "Indica que una proporción relevante del grupo no resolvió adecuadamente tareas de reflexión y evaluación crítica en esa aplicación.",
+          "Justifica revisar explícitamente criterios de validez, distinción entre hecho y valoración, análisis de estrategias, relaciones intertextuales y contextualización.",
+          "No permite concluir que el grupo carece de pensamiento crítico general ni atribuir el resultado a una única práctica docente o área curricular."
+        ],
+        "limites_de_inferencia": [
+          "El resultado agregado no identifica cuál de las cinco evidencias explica el desempeño observado.",
+          "No permite equiparar automáticamente bajo desempeño con ausencia general de pensamiento crítico, falta de opinión o desconocimiento del tema.",
+          "No permite separar por sí solo dificultades de comprensión previa, argumentación, conocimiento contextual, lectura multimodal o manejo del formato de pregunta.",
+          "La dificultad de los ítems puede variar por abstracción, familiaridad temática, distancia inferencial, cantidad de textos, sutileza retórica y contexto requerido."
+        ],
+        "informacion_para_contrastar": [
+          "Resultados desagregados por evidencias 3.1, 3.2, 3.3, 3.4 y 3.5",
+          "Desempeño separado por tipo y formato textual",
+          "Justificaciones escritas u orales de los estudiantes",
+          "Tareas diagnósticas de evaluación argumentativa, comparación de fuentes, sesgo, estrategia y contexto",
+          "Producciones argumentativas, debates y reseñas críticas",
+          "Prácticas de aula de lectura crítica en Lenguaje, Ciencias Sociales, Ciencias Naturales y Filosofía"
+        ]
+      },
+      "validacion": {
+        "estado": "borrador_desarrollado",
+        "revisado_por": [],
+        "observaciones": [
+          "La propuesta debe revisarse antes de declararse validada institucionalmente.",
+          "Las relaciones curriculares se formularon con base en los estándares de décimo y undécimo previamente leídos.",
+          "Las dificultades previsibles son hipótesis pedagógicas y no diagnósticos individuales ni explicaciones causales automáticas."
+        ]
+      },
+      "alcance_pedagogico": "La afirmación se concentra en la lectura propiamente crítica. Exige valorar la validez, pertinencia e implicaciones de los enunciados; relacionar textos; reconocer contenidos valorativos y estrategias discursivas; y contextualizar la información. Supone comprender previamente los contenidos locales y el sentido global, pero añade una toma de distancia reflexiva frente a la forma, el contenido, la intención y las condiciones de producción y circulación del texto."
+    }
+  ],
+  "version_contenido": "1.3.0",
+  "avance": {
+    "afirmaciones_desarrolladas": [
+      "LC-AF-01",
+      "LC-AF-02",
+      "LC-AF-03"
+    ],
+    "afirmaciones_pendientes": []
+  },
+  "estado_general": "completo_para_revision",
+  "control_final": {
+    "total_afirmaciones": 3,
+    "total_tareas": 17,
+    "total_saberes_conceptuales": 20,
+    "total_saberes_procedimentales": 22,
+    "total_operaciones_cognitivas": 26,
+    "total_dificultades_previsibles": 20,
+    "total_indicadores_pedagogicos": 18,
+    "integridad": "Las tres afirmaciones contienen todos los bloques definidos en la arquitectura pedagógica."
+  }
+}
