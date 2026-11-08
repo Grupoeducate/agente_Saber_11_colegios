@@ -1,0 +1,502 @@
+{
+  "establecimiento_educativo": {
+    "nombre": "COL PIAGET",
+    "codigo_dane": "341001005431",
+    "direccion": "KR 47 20 A 50",
+    "municipio_departamento": "NEIVA - HUILA",
+    "entidad_territorial_certificada": "NEIVA",
+    "sector": "No oficial",
+    "zona": "Urbano",
+    "grupo_comparacion": "3",
+    "periodo_aplicacion": "2026-3"
+  },
+  "puntaje_global_y_desviacion": {
+    "promedio": {
+      "ee": "286",
+      "colombia": "258",
+      "etc": "277"
+    },
+    "desviacion_estandar": {
+      "ee": "45",
+      "colombia": "48",
+      "etc": "48"
+    }
+  },
+  "resultados_por_areas": {
+    "lectura_critica": {
+      "promedio": {
+        "ee": "58",
+        "colombia": "54",
+        "etc": "57"
+      },
+      "desviacion_estandar": {
+        "ee": "9",
+        "colombia": "10",
+        "etc": "9"
+      },
+      "porcentaje_niveles_desempeno": {
+        "ee": {
+          "1": "4%",
+          "2": "12%",
+          "3": "67%",
+          "4": "17%"
+        },
+        "colombia": {
+          "1": "4%",
+          "2": "34%",
+          "3": "52%",
+          "4": "11%"
+        },
+        "etc": {
+          "1": "2%",
+          "2": "22%",
+          "3": "58%",
+          "4": "18%"
+        }
+      },
+      "aprendizajes_evaluados": [
+        {
+          "aprendizaje": "Identifica y entiende los contenidos locales que conforman un texto.",
+          "porcentaje_respuestas_incorrectas_ee": "21%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Comprende cómo se articulan las partes de un texto para darle dar un sentido global.",
+          "porcentaje_respuestas_incorrectas_ee": "41%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        },
+        {
+          "aprendizaje": "Reflexiona a partir de un texto y evalúa su contenido.",
+          "porcentaje_respuestas_incorrectas_ee": "40%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        }
+      ]
+    },
+    "matematicas": {
+      "promedio": {
+        "ee": "60",
+        "colombia": "52",
+        "etc": "56"
+      },
+      "desviacion_estandar": {
+        "ee": "11",
+        "colombia": "12",
+        "etc": "12"
+      },
+      "porcentaje_niveles_desempeno": {
+        "ee": {
+          "1": "3%",
+          "2": "18%",
+          "3": "66%",
+          "4": "13%"
+        },
+        "colombia": {
+          "1": "9%",
+          "2": "39%",
+          "3": "46%",
+          "4": "6%"
+        },
+        "etc": {
+          "1": "4%",
+          "2": "30%",
+          "3": "53%",
+          "4": "13%"
+        }
+      },
+      "aprendizajes_evaluados": [
+        {
+          "aprendizaje": "Valida procedimientos y estrategias matemáticas utilizadas para dar solución a problemas.",
+          "porcentaje_respuestas_incorrectas_ee": "39%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Frente a un problema que involucre información cuantitativa, plantea e implementa estrategias que lleven a soluciones adecuadas.",
+          "porcentaje_respuestas_incorrectas_ee": "24%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Comprende y transforma la información cuantitativa y esquemática presentada en distintos formatos",
+          "porcentaje_respuestas_incorrectas_ee": "20%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        }
+      ]
+    },
+    "sociales_y_ciudadanas": {
+      "promedio": {
+        "ee": "54",
+        "colombia": "50",
+        "etc": "53"
+      },
+      "desviacion_estandar": {
+        "ee": "10",
+        "colombia": "11",
+        "etc": "11"
+      },
+      "porcentaje_niveles_desempeno": {
+        "ee": {
+          "1": "13%",
+          "2": "32%",
+          "3": "52%",
+          "4": "3%"
+        },
+        "colombia": {
+          "1": "23%",
+          "2": "46%",
+          "3": "28%",
+          "4": "3%"
+        },
+        "etc": {
+          "1": "16%",
+          "2": "43%",
+          "3": "37%",
+          "4": "5%"
+        }
+      },
+      "aprendizajes_evaluados": [
+        {
+          "aprendizaje": "Comprende perspectivas de distintos actores y grupos sociales.",
+          "porcentaje_respuestas_incorrectas_ee": "31%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Comprende modelos conceptuales, sUS caracteristicas y contextos de aplicación.",
+          "porcentaje_respuestas_incorrectas_ee": "43%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        },
+        {
+          "aprendizaje": "Contextualiza y evalúa usos de fuentes y argumentos.",
+          "porcentaje_respuestas_incorrectas_ee": "46%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        },
+        {
+          "aprendizaje": "Evalúa usos sociales de las ciencias sociales.",
+          "porcentaje_respuestas_incorrectas_ee": "38%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Comprende que los problemas y sus soluciones Involucran distintas involucran dimensiones y reconoce relaciones entre estas.",
+          "porcentaje_respuestas_incorrectas_ee": "45%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        },
+        {
+          "aprendizaje": "Comprende dimensiones espaciales y temporales de eventos, problemáticas y prácticas sociales.",
+          "porcentaje_respuestas_incorrectas_ee": "47%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        }
+      ]
+    },
+    "ciencias_naturales": {
+      "promedio": {
+        "ee": "56",
+        "colombia": "51",
+        "etc": "55"
+      },
+      "desviacion_estandar": {
+        "ee": "10",
+        "colombia": "10",
+        "etc": "10"
+      },
+      "porcentaje_niveles_desempeno": {
+        "ee": {
+          "1": "8%",
+          "2": "15%",
+          "3": "60%",
+          "4": "17%"
+        },
+        "colombia": {
+          "1": "18%",
+          "2": "46%",
+          "3": "32%",
+          "4": "4%"
+        },
+        "etc": {
+          "1": "8%",
+          "2": "38%",
+          "3": "44%",
+          "4": "10%"
+        }
+      },
+      "aprendizajes_evaluados": [
+        {
+          "aprendizaje": "Explicar cómo ocurren algunos fenómenos de la naturaleza basado en observaciones, en patrones y en conceptos propios del conocimiento científico. - Procesos vivos",
+          "porcentaje_respuestas_incorrectas_ee": "58%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        },
+        {
+          "aprendizaje": "Modelar fenómenos de la naturaleza basado en el análisis de variables, la relación entre dos o más conceptos del conocimiento cientifico y de la evidencia derivada de investigaciones científicas. Procesos químicos",
+          "porcentaje_respuestas_incorrectas_ee": "47%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        },
+        {
+          "aprendizaje": "Comprender que a partir de la investigación científica se construyen explicaciones sobre el mundo natural. - Procesos físicos",
+          "porcentaje_respuestas_incorrectas_ee": "48%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        },
+        {
+          "aprendizaje": "Derivar conclusiones para algunos fen fenómenos de la naturaleza basándose en conocimientos científicos y en la evidencia de su propia investigación y de la de otros. Procesos físicos",
+          "porcentaje_respuestas_incorrectas_ee": "41%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        },
+        {
+          "aprendizaje": "Observar y relacionar patrones en los datos para evaluar las predicciones. - Procesos vivos",
+          "porcentaje_respuestas_incorrectas_ee": "28%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Comprender que a partir de la investigación científica se construyen explicaciones sobre el mundo natural.. Procesos químicos",
+          "porcentaje_respuestas_incorrectas_ee": "20%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Asaciar fenómenos naturales con conceptos propios del conacimiento cientifico. - Procesos químicos",
+          "porcentaje_respuestas_incorrectas_ee": "44%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        },
+        {
+          "aprendizaje": "Utilizar algunas habilidades de pensamiento y de procedimiento para evaluar predicciones - Procesos fisicos",
+          "porcentaje_respuestas_incorrectas_ee": "28%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Comprender que a partir de la investigación científica se construyen explicaciones sobre el mundo natural. - Procesos vivos",
+          "porcentaje_respuestas_incorrectas_ee": "N.D.",
+          "semaforizacion": {
+            "color": "indeterminado",
+            "nivel_desempeno": "indeterminado"
+          }
+        },
+        {
+          "aprendizaje": "Asaciar fenómenos naturales con conceptos propios del conocimiento cientifico. - Procesos vivoS",
+          "porcentaje_respuestas_incorrectas_ee": "22%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Explicar cómo ocurren algunos fenómenos de la naturaleza basado en observaciones, en patrones y en conceptos propios del conocimiento científico. - Procesos químicos",
+          "porcentaje_respuestas_incorrectas_ee": "41%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        },
+        {
+          "aprendizaje": "Asociar fenómenos naturales con conceptos propios del conocimiento cientifico.. Procesos físicos",
+          "porcentaje_respuestas_incorrectas_ee": "43%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        },
+        {
+          "aprendizaje": "Identificar las características de algunos fenómenos de la naturaleza basado en el análisis de información y conceptos propios del conocimiento científico. - CTS",
+          "porcentaje_respuestas_incorrectas_ee": "41%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        },
+        {
+          "aprendizaje": "Observar y relacionar patrones en los datos para evaluar las predicciones. - Procesos físicos",
+          "porcentaje_respuestas_incorrectas_ee": "33%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Analizar el potencial del uso de recursos naturales o artefactos y sus efectos sobre el entorno y la salud, así como las posibilidades de desarrollo para las comunidades. CTS",
+          "porcentaje_respuestas_incorrectas_ee": "30%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Derivar conclusiones para algunos fenómenos de la naturaleza basándose en conocimientos científicos y en la evidencia de su propia investigación y de la de otros. Procesos químicos",
+          "porcentaje_respuestas_incorrectas_ee": "35%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Utilizar algunas habilidades de pensamiento y de procedimiento para evaluar predicciones Procesos químicos",
+          "porcentaje_respuestas_incorrectas_ee": "39%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Modelar fenómenos de la naturaleza basado en el análisis de variables, la relación entre dos o más conceptos del conocimiento científico y de la evidencia derivada de investigaciones científicas. Procesos físicos",
+          "porcentaje_respuestas_incorrectas_ee": "35%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Explicar cómo ocurren algunos fenómenos de la naturaleza basado en observaciones, en patrones y en conceptos propios del conocimiento científico.- Procesos físicos",
+          "porcentaje_respuestas_incorrectas_ee": "52%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        },
+        {
+          "aprendizaje": "Identificar las características de algunos fenómenos de la naturaleza basado en el análisis de información y conceptos propios del conocimiento científico. - Procesos físicos",
+          "porcentaje_respuestas_incorrectas_ee": "61%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        },
+        {
+          "aprendizaje": "Identificar las características de algunos fenómenos de la naturaleza basado en el análisis de información y conceptos propios del conocimiento científico.- Procesos vivos",
+          "porcentaje_respuestas_incorrectas_ee": "42%",
+          "semaforizacion": {
+            "color": "naranja",
+            "nivel_desempeno": "Desempeño mínimo"
+          }
+        },
+        {
+          "aprendizaje": "Modelar fenómenos de la naturaleza basado en el análisis de variables, la relación entre dos o más conceptos del conocimiento científico y de la evidencia derivada de investigaciones científicas. Procesos vivos",
+          "porcentaje_respuestas_incorrectas_ee": "34%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Derivar conclusiones para algunos fenómenos de la naturaleza basándose en conocimientos científicos y en la evidencia de su propia investigación y de la de otros. Procesos vivos",
+          "porcentaje_respuestas_incorrectas_ee": "23%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Observar y relacionar patrones en los datos para evaluar las predicciones. - Procesos químicos",
+          "porcentaje_respuestas_incorrectas_ee": "36%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Identificar las características de algunos fenómenos de la naturaleza basado en el análisis de información y conceptos propios del conocimiento cientifico.- Procesos químicos",
+          "porcentaje_respuestas_incorrectas_ee": "32%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        },
+        {
+          "aprendizaje": "Utilizar algunas habilidades de pensamiento y de procedimiento para evaluar predicciones Procesos vivos",
+          "porcentaje_respuestas_incorrectas_ee": "38%",
+          "semaforizacion": {
+            "color": "amarillo",
+            "nivel_desempeno": "Desempeño satisfactorio"
+          }
+        }
+      ]
+    },
+    "ingles": {
+      "promedio": {
+        "ee": "62",
+        "colombia": "53",
+        "etc": "58"
+      },
+      "desviacion_estandar": {
+        "ee": "13",
+        "colombia": "13",
+        "etc": "12"
+      },
+      "porcentaje_niveles_desempeno": {
+        "ee": {
+          "A-": "9%",
+          "A1": "31%",
+          "A2": "30%",
+          "B1": "21%",
+          "B+": "8%"
+        },
+        "colombia": {
+          "A-": "35%",
+          "A1": "33%",
+          "A2": "18%",
+          "B1": "11%",
+          "B+": "4%"
+        },
+        "etc": {
+          "A-": "21%",
+          "A1": "35%",
+          "A2": "23%",
+          "B1": "16%",
+          "B+": "6%"
+        }
+      }
+    }
+  }
+}

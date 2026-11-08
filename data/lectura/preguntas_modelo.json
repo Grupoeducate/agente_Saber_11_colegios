@@ -1,0 +1,272 @@
+{
+  "naturaleza": "Preguntas modelo originales para formación docente. No son preguntas oficiales del Icfes.",
+  "preguntas": [
+    {
+      "codigo": "LC-Q-101",
+      "afirmacion": "LC-AF-01",
+      "evidencia": "LC-EV-01-01",
+      "componentes": [
+        {
+          "codigo": "SEM",
+          "grado": "principal"
+        }
+      ],
+      "estimulo": "Una institución adopta una herramienta de inteligencia artificial para apoyar la escritura. El protocolo señala: «La herramienta puede sugerir estructuras y detectar inconsistencias, pero la autoría y la verificación de las fuentes permanecen bajo responsabilidad del estudiante».",
+      "pregunta": "En el protocolo, la expresión «permanecen bajo responsabilidad del estudiante» indica que el estudiante debe",
+      "opciones": [
+        "aceptar automáticamente todas las sugerencias de la herramienta.",
+        "delegar en la herramienta la selección de fuentes confiables.",
+        "tomar las decisiones finales y comprobar la información utilizada.",
+        "usar la herramienta únicamente para corregir ortografía."
+      ],
+      "respuesta": 2,
+      "justificacion": "La expresión limita el papel de la herramienta: puede asistir, pero el estudiante conserva el control sobre la autoría y la verificación.",
+      "distractores": [
+        "Contradice la responsabilidad explícita del estudiante.",
+        "La verificación no se delega.",
+        "Clave correcta.",
+        "Reduce injustificadamente los usos descritos."
+      ]
+    },
+    {
+      "codigo": "LC-Q-102",
+      "afirmacion": "LC-AF-01",
+      "evidencia": "LC-EV-01-02",
+      "componentes": [
+        {
+          "codigo": "SIN",
+          "grado": "principal"
+        },
+        {
+          "codigo": "SEM",
+          "grado": "complementario"
+        }
+      ],
+      "estimulo": "Durante una alerta por mala calidad del aire, la Secretaría recomendó suspender las actividades físicas al aire libre. Varios colegios las trasladaron a espacios cubiertos y ajustaron sus horarios.",
+      "pregunta": "En el segundo enunciado, el pronombre «las» se refiere a",
+      "opciones": [
+        "las alertas.",
+        "las recomendaciones.",
+        "las actividades físicas.",
+        "las secretarías."
+      ],
+      "respuesta": 2,
+      "justificacion": "El pronombre femenino plural retoma «las actividades físicas», que son aquello que los colegios trasladaron.",
+      "distractores": [
+        "No son objeto de traslado.",
+        "No corresponde a la acción descrita.",
+        "Clave correcta.",
+        "No aparece como antecedente plural pertinente."
+      ]
+    },
+    {
+      "codigo": "LC-Q-201",
+      "afirmacion": "LC-AF-02",
+      "evidencia": "LC-EV-02-01",
+      "componentes": [
+        {
+          "codigo": "SIN",
+          "grado": "principal"
+        },
+        {
+          "codigo": "SEM",
+          "grado": "complementario"
+        }
+      ],
+      "estimulo": "Los sistemas de recomendación facilitan encontrar contenidos entre millones de opciones. Sin embargo, si solo muestran materiales semejantes a los ya consumidos, pueden reducir el contacto con perspectivas diferentes. Por ello, algunas plataformas incorporan controles para diversificar las recomendaciones.",
+      "pregunta": "¿Qué función cumple el último enunciado en la organización del texto?",
+      "opciones": [
+        "Repite sin cambios la ventaja presentada al inicio.",
+        "Presenta una respuesta frente al riesgo expuesto en el segundo enunciado.",
+        "Niega que los sistemas de recomendación seleccionen contenidos.",
+        "Introduce un tema sin relación con los enunciados anteriores."
+      ],
+      "respuesta": 1,
+      "justificacion": "El último enunciado propone una medida que responde al riesgo de limitar la diversidad de perspectivas.",
+      "distractores": [
+        "No repite la ventaja inicial.",
+        "Clave correcta.",
+        "No niega la selección algorítmica.",
+        "La relación está marcada por «Por ello»."
+      ]
+    },
+    {
+      "codigo": "LC-Q-202",
+      "afirmacion": "LC-AF-02",
+      "evidencia": "LC-EV-02-02",
+      "componentes": [
+        {
+          "codigo": "PRA",
+          "grado": "principal"
+        }
+      ],
+      "estimulo": "Ante la propuesta de restringir los teléfonos durante la jornada escolar, una docente afirma que la medida favorecería la concentración. Un estudiante responde que una prohibición total impediría aprovechar aplicaciones útiles para investigar y organizar tareas.",
+      "pregunta": "La diferencia central entre las dos voces consiste en que",
+      "opciones": [
+        "la docente valora el efecto sobre la atención y el estudiante advierte una pérdida de usos académicos.",
+        "ambas consideran que los teléfonos carecen de utilidad educativa.",
+        "la docente habla de costos y el estudiante de privacidad.",
+        "ambas defienden una prohibición total, aunque por razones distintas."
+      ],
+      "respuesta": 0,
+      "justificacion": "Las voces evalúan dimensiones distintas de la misma medida: concentración frente a posibles usos académicos.",
+      "distractores": [
+        "Clave correcta.",
+        "El estudiante sí reconoce utilidad educativa.",
+        "Esos asuntos no aparecen.",
+        "El estudiante cuestiona la prohibición total."
+      ]
+    },
+    {
+      "codigo": "LC-Q-203",
+      "afirmacion": "LC-AF-02",
+      "evidencia": "LC-EV-02-05",
+      "componentes": [
+        {
+          "codigo": "SEM",
+          "grado": "principal"
+        },
+        {
+          "codigo": "SIN",
+          "grado": "complementario"
+        }
+      ],
+      "estimulo": "Una infografía compara el consumo de agua de tres actividades: ducha de 5 minutos, 50 litros; lavado de automóvil con manguera, 300 litros; ciclo de lavadora, 70 litros. Un recuadro añade: «Cerrar la llave mientras se enjabona puede reducir el consumo de la ducha».",
+      "pregunta": "¿Cuál conclusión integra correctamente los datos y el recuadro?",
+      "opciones": [
+        "La lavadora siempre consume más agua que lavar un automóvil.",
+        "Reducir el tiempo o interrumpir el flujo puede disminuir el consumo asociado a la ducha.",
+        "La ducha es la actividad de mayor consumo entre las tres.",
+        "Cerrar la llave elimina por completo el consumo de agua."
+      ],
+      "respuesta": 1,
+      "justificacion": "La conclusión combina el dato de la ducha con la recomendación de interrumpir el flujo, sin exceder la información.",
+      "distractores": [
+        "Los datos muestran lo contrario.",
+        "Clave correcta.",
+        "El mayor consumo es el lavado del automóvil.",
+        "El recuadro habla de reducir, no eliminar."
+      ]
+    },
+    {
+      "codigo": "LC-Q-301",
+      "afirmacion": "LC-AF-03",
+      "evidencia": "LC-EV-03-01",
+      "componentes": [
+        {
+          "codigo": "SEM",
+          "grado": "principal"
+        },
+        {
+          "codigo": "SIN",
+          "grado": "complementario"
+        }
+      ],
+      "estimulo": "Una publicación afirma: «Desde que el colegio instaló paneles solares, aumentó la asistencia de los estudiantes. Por tanto, los paneles solares fueron la causa del aumento».",
+      "pregunta": "¿Qué información sería más necesaria para evaluar la conclusión?",
+      "opciones": [
+        "El color y la ubicación de los paneles.",
+        "Si durante el mismo periodo cambiaron el transporte escolar, los horarios u otras condiciones de asistencia.",
+        "Cuántas fotografías de los paneles publicó el colegio.",
+        "La opinión de una sola persona que asistió con mayor frecuencia."
+      ],
+      "respuesta": 1,
+      "justificacion": "Para evaluar la causalidad se deben considerar explicaciones alternativas que también pudieron afectar la asistencia.",
+      "distractores": [
+        "No evalúa la relación causal.",
+        "Clave correcta.",
+        "La cantidad de fotografías no explica la asistencia.",
+        "Un testimonio aislado es insuficiente."
+      ]
+    },
+    {
+      "codigo": "LC-Q-302",
+      "afirmacion": "LC-AF-03",
+      "evidencia": "LC-EV-03-02",
+      "componentes": [
+        {
+          "codigo": "SEM",
+          "grado": "principal"
+        },
+        {
+          "codigo": "PRA",
+          "grado": "complementario"
+        }
+      ],
+      "estimulo": "Texto 1: «Etiquetar imágenes generadas por inteligencia artificial ayuda a que el público conozca su origen». Texto 2: «Una etiqueta informa sobre el origen, pero no garantiza que una imagen verdadera no sea presentada fuera de contexto».",
+      "pregunta": "¿Qué relación existe entre los textos?",
+      "opciones": [
+        "El segundo rechaza que las etiquetas aporten información.",
+        "El segundo complementa al primero al señalar un límite de la medida.",
+        "Ambos afirman que toda imagen etiquetada es falsa.",
+        "El primero trata sobre derechos de autor y el segundo sobre calidad visual."
+      ],
+      "respuesta": 1,
+      "justificacion": "El segundo reconoce la función informativa de la etiqueta y añade que no resuelve todos los problemas de interpretación.",
+      "distractores": [
+        "El segundo reconoce su aporte informativo.",
+        "Clave correcta.",
+        "Ninguno formula esa generalización.",
+        "Esos no son los ejes de los textos."
+      ]
+    },
+    {
+      "codigo": "LC-Q-303",
+      "afirmacion": "LC-AF-03",
+      "evidencia": "LC-EV-03-04",
+      "componentes": [
+        {
+          "codigo": "PRA",
+          "grado": "principal"
+        }
+      ],
+      "estimulo": "Una campaña sobre desinformación muestra un botón de «compartir» convertido en una ficha de dominó que derriba muchas otras. El mensaje dice: «Una publicación impulsiva no termina en tu pantalla».",
+      "pregunta": "La comparación visual con las fichas de dominó busca",
+      "opciones": [
+        "explicar técnicamente cómo funciona una red social.",
+        "representar la propagación encadenada de una acción individual.",
+        "afirmar que toda publicación en internet es falsa.",
+        "demostrar que compartir información siempre produce daños."
+      ],
+      "respuesta": 1,
+      "justificacion": "La metáfora visual representa cómo una acción inicial puede desencadenar efectos sucesivos y amplificados.",
+      "distractores": [
+        "No ofrece una explicación técnica.",
+        "Clave correcta.",
+        "No generaliza sobre toda publicación.",
+        "Advierte un riesgo, no una consecuencia inevitable."
+      ]
+    },
+    {
+      "codigo": "LC-Q-304",
+      "afirmacion": "LC-AF-03",
+      "evidencia": "LC-EV-03-05",
+      "componentes": [
+        {
+          "codigo": "PRA",
+          "grado": "principal"
+        },
+        {
+          "codigo": "SEM",
+          "grado": "complementario"
+        }
+      ],
+      "estimulo": "En 1992, un artículo celebraba que el correo electrónico permitiría enviar mensajes en minutos entre universidades conectadas. El texto no mencionaba teléfonos inteligentes, redes sociales ni servicios de mensajería masiva.",
+      "pregunta": "¿Cuál interpretación contextualiza mejor el artículo?",
+      "opciones": [
+        "El autor ignoró deliberadamente tecnologías que ya usaba toda la población.",
+        "El entusiasmo debe comprenderse en una etapa temprana de expansión del acceso digital.",
+        "El artículo demuestra que el correo electrónico dejó de utilizarse inmediatamente.",
+        "La ausencia de redes sociales invalida toda la información del artículo."
+      ],
+      "respuesta": 1,
+      "justificacion": "La fecha y el ámbito universitario permiten interpretar el entusiasmo desde las condiciones tecnológicas del momento, sin exigir categorías posteriores.",
+      "distractores": [
+        "Atribuye disponibilidad histórica no respaldada.",
+        "Clave correcta.",
+        "No se deriva del texto.",
+        "Confunde contextualizar con invalidar."
+      ]
+    }
+  ]
+}

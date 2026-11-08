@@ -1,0 +1,28 @@
+{
+  "semaforizacion": [
+    {
+      "desde_inclusive": 0,
+      "hasta_exclusive": 20,
+      "color_hex": "#2E7D32",
+      "nombre_desempeno": "Desempeño superior"
+    },
+    {
+      "desde_inclusive": 20,
+      "hasta_exclusive": 40,
+      "color_hex": "#F9A825",
+      "nombre_desempeno": "Desempeño satisfactorio"
+    },
+    {
+      "desde_inclusive": 40,
+      "hasta_exclusive": 70,
+      "color_hex": "#EF6C00",
+      "nombre_desempeno": "Desempeño mínimo"
+    },
+    {
+      "desde_inclusive": 70,
+      "hasta_inclusive": 100,
+      "color_hex": "#C62828",
+      "nombre_desempeno": "Desempeño insuficiente"
+    }
+  ]
+}

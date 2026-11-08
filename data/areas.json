@@ -1,0 +1,29 @@
+{
+  "areas": [
+    {
+      "codigo": "lectura",
+      "nombre": "Lectura Crítica",
+      "habilitada": true
+    },
+    {
+      "codigo": "matematicas",
+      "nombre": "Matemáticas",
+      "habilitada": false
+    },
+    {
+      "codigo": "naturales",
+      "nombre": "Ciencias Naturales",
+      "habilitada": false
+    },
+    {
+      "codigo": "sociales",
+      "nombre": "Sociales y Ciudadanas",
+      "habilitada": false
+    },
+    {
+      "codigo": "ingles",
+      "nombre": "Inglés",
+      "habilitada": false
+    }
+  ]
+}
