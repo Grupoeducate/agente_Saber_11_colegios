@@ -1,0 +1,247 @@
+{
+  "preguntas": [
+    {
+      "codigo": "LC-Q-01",
+      "afirmacion": "LC-AF-01",
+      "evidencia": "LC-EV-01-01",
+      "componentes": [
+        {
+          "codigo": "SEM",
+          "grado": "principal"
+        }
+      ],
+      "estimulo": "La biblioteca amplió su horario. Abrirá más temprano y cerrará más tarde.",
+      "pregunta": "«Amplió su horario» significa que",
+      "opciones": [
+        "cambió de edificio",
+        "atenderá más horas",
+        "prestará más libros",
+        "abrirá solo temprano"
+      ],
+      "respuesta": 1,
+      "justificacion": "La respuesta se sostiene en la información y la relación solicitada por el texto.",
+      "distractores": [
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada."
+      ]
+    },
+    {
+      "codigo": "LC-Q-02",
+      "afirmacion": "LC-AF-01",
+      "evidencia": "LC-EV-01-02",
+      "componentes": [
+        {
+          "codigo": "SIN",
+          "grado": "principal"
+        }
+      ],
+      "estimulo": "Marta dejó la sombrilla. Luisa la tomó por error.",
+      "pregunta": "«La» se refiere a",
+      "opciones": [
+        "Marta",
+        "la puerta",
+        "la sombrilla",
+        "Luisa"
+      ],
+      "respuesta": 2,
+      "justificacion": "La respuesta se sostiene en la información y la relación solicitada por el texto.",
+      "distractores": [
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada."
+      ]
+    },
+    {
+      "codigo": "LC-Q-03",
+      "afirmacion": "LC-AF-01",
+      "evidencia": "LC-EV-01-01",
+      "componentes": [
+        {
+          "codigo": "PRA",
+          "grado": "principal"
+        }
+      ],
+      "estimulo": "Aviso: Ingrese únicamente si fue convocado.",
+      "pregunta": "¿Quién puede entrar?",
+      "opciones": [
+        "quien llegue temprano",
+        "quien fue convocado",
+        "quien necesite información",
+        "quien guarde silencio"
+      ],
+      "respuesta": 1,
+      "justificacion": "La respuesta se sostiene en la información y la relación solicitada por el texto.",
+      "distractores": [
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada."
+      ]
+    },
+    {
+      "codigo": "LC-Q-04",
+      "afirmacion": "LC-AF-02",
+      "evidencia": "LC-EV-02-01",
+      "componentes": [
+        {
+          "codigo": "SIN",
+          "grado": "principal"
+        }
+      ],
+      "estimulo": "La bicicleta reduce el ruido. Sin embargo, requiere ciclorrutas seguras.",
+      "pregunta": "El segundo enunciado",
+      "opciones": [
+        "presenta una condición",
+        "niega los beneficios",
+        "explica la fabricación",
+        "elimina la propuesta"
+      ],
+      "respuesta": 0,
+      "justificacion": "La respuesta se sostiene en la información y la relación solicitada por el texto.",
+      "distractores": [
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada."
+      ]
+    },
+    {
+      "codigo": "LC-Q-05",
+      "afirmacion": "LC-AF-02",
+      "evidencia": "LC-EV-02-03",
+      "componentes": [
+        {
+          "codigo": "SEM",
+          "grado": "principal"
+        }
+      ],
+      "estimulo": "El río se desbordó. Como consecuencia, la vía cerró.",
+      "pregunta": "La relación es de",
+      "opciones": [
+        "causa inversa",
+        "consecuencia",
+        "independencia",
+        "contradicción"
+      ],
+      "respuesta": 1,
+      "justificacion": "La respuesta se sostiene en la información y la relación solicitada por el texto.",
+      "distractores": [
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada."
+      ]
+    },
+    {
+      "codigo": "LC-Q-06",
+      "afirmacion": "LC-AF-02",
+      "evidencia": "LC-EV-02-02",
+      "componentes": [
+        {
+          "codigo": "PRA",
+          "grado": "principal"
+        }
+      ],
+      "estimulo": "La alcaldesa prevé menos tráfico. Un comerciante advierte congestión en otros barrios.",
+      "pregunta": "Las voces",
+      "opciones": [
+        "prevén efectos distintos",
+        "rechazan lo mismo",
+        "afirman lo mismo",
+        "hablan de temas distintos"
+      ],
+      "respuesta": 0,
+      "justificacion": "La respuesta se sostiene en la información y la relación solicitada por el texto.",
+      "distractores": [
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada."
+      ]
+    },
+    {
+      "codigo": "LC-Q-07",
+      "afirmacion": "LC-AF-03",
+      "evidencia": "LC-EV-03-01",
+      "componentes": [
+        {
+          "codigo": "SEM",
+          "grado": "principal"
+        }
+      ],
+      "estimulo": "Personas dijeron sentir más energía; por tanto, la bebida mejora el rendimiento académico.",
+      "pregunta": "La debilidad es que",
+      "opciones": [
+        "la cifra es corta",
+        "no se midió rendimiento",
+        "falta la marca",
+        "se habla de energía"
+      ],
+      "respuesta": 1,
+      "justificacion": "La respuesta se sostiene en la información y la relación solicitada por el texto.",
+      "distractores": [
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada."
+      ]
+    },
+    {
+      "codigo": "LC-Q-08",
+      "afirmacion": "LC-AF-03",
+      "evidencia": "LC-EV-03-04",
+      "componentes": [
+        {
+          "codigo": "PRA",
+          "grado": "principal"
+        }
+      ],
+      "estimulo": "Campaña: un grifo sobre suelo agrietado y «Mañana puede ser tarde».",
+      "pregunta": "Busca",
+      "opciones": [
+        "explicar el grifo",
+        "provocar urgencia",
+        "probar que no habrá agua",
+        "describir el suelo"
+      ],
+      "respuesta": 1,
+      "justificacion": "La respuesta se sostiene en la información y la relación solicitada por el texto.",
+      "distractores": [
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada."
+      ]
+    },
+    {
+      "codigo": "LC-Q-09",
+      "afirmacion": "LC-AF-03",
+      "evidencia": "LC-EV-03-05",
+      "componentes": [
+        {
+          "codigo": "PRA",
+          "grado": "principal"
+        }
+      ],
+      "estimulo": "En 1955 una trabajadora pide permiso para estudiar de noche.",
+      "pregunta": "El contexto más útil es",
+      "opciones": [
+        "condiciones laborales y educativas de las mujeres",
+        "color del papel",
+        "distancia actual",
+        "cantidad de cartas"
+      ],
+      "respuesta": 0,
+      "justificacion": "La respuesta se sostiene en la información y la relación solicitada por el texto.",
+      "distractores": [
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada.",
+        "Esta opción no satisface completamente la relación solicitada."
+      ]
+    }
+  ]
+}

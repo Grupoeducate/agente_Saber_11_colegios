@@ -1,0 +1,19 @@
+{
+  "rutas": [
+    {
+      "codigo": "aprender",
+      "nombre": "Aprender sobre la prueba",
+      "descripcion": "Recorrido por el DCE, la matriz de referencia y los Estándares."
+    },
+    {
+      "codigo": "resultados",
+      "nombre": "Comprender resultados institucionales",
+      "descripcion": "Tabla trienal, semaforización, tendencia y ruta priorizada."
+    },
+    {
+      "codigo": "consultar",
+      "nombre": "Consultar una afirmación",
+      "descripcion": "Tareas, saberes, dificultades, indicadores y orientaciones."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "afirmaciones": [
+    {
+      "codigo_estable": "LC-AF-01",
+      "orden": 1,
+      "nombre_corto": "Contenidos locales",
+      "versiones": [
+        {
+          "nombre_oficial": "Identifica y entiende los contenidos locales que conforman un texto."
+        }
+      ]
+    },
+    {
+      "codigo_estable": "LC-AF-02",
+      "orden": 2,
+      "nombre_corto": "Articulación y sentido global",
+      "versiones": [
+        {
+          "nombre_oficial": "Comprende cómo se articulan las partes de un texto para darle un sentido global."
+        },
+        {
+          "nombre_oficial": "Comprende cómo se articulan las partes de un texto para darle dar un sentido global."
+        }
+      ]
+    },
+    {
+      "codigo_estable": "LC-AF-03",
+      "orden": 3,
+      "nombre_corto": "Reflexión y evaluación",
+      "versiones": [
+        {
+          "nombre_oficial": "Reflexiona a partir de un texto y evalúa su contenido."
+        }
+      ]
+    }
+  ]
+}

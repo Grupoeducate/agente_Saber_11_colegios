@@ -1,0 +1,465 @@
+{
+  "afirmaciones": [
+    {
+      "codigo_afirmacion": "LC-AF-01",
+      "texto_afirmacion": "Identifica y entiende los contenidos locales que conforman un texto.",
+      "evidencias_referenciadas": [
+        "LC-EV-01-01",
+        "LC-EV-01-02"
+      ],
+      "alcance_pedagogico": "Comprensión de información explícita, significados contextualizados, referentes, personajes, acciones y circunstancias.",
+      "tareas_asociadas": [
+        {
+          "descripcion": "Determinar el significado contextual de palabras o expresiones."
+        },
+        {
+          "descripcion": "Localizar información explícita pertinente."
+        },
+        {
+          "descripcion": "Identificar personajes, acciones y eventos."
+        },
+        {
+          "descripcion": "Establecer referentes pronominales."
+        }
+      ],
+      "saberes": {
+        "conceptuales": [
+          {
+            "descripcion": "Significado contextual y literal."
+          },
+          {
+            "descripcion": "Elementos explícitos de la narración."
+          },
+          {
+            "descripcion": "Mecanismos locales de cohesión."
+          },
+          {
+            "descripcion": "Convenciones de textos discontinuos."
+          }
+        ],
+        "procedimentales": [
+          {
+            "descripcion": "Rastrear información solicitada."
+          },
+          {
+            "descripcion": "Usar claves contextuales."
+          },
+          {
+            "descripcion": "Reformular enunciados."
+          },
+          {
+            "descripcion": "Vincular referentes con antecedentes."
+          },
+          {
+            "descripcion": "Verificar la respuesta en el texto."
+          }
+        ]
+      },
+      "operaciones_cognitivas": [
+        {
+          "verbo": "localizar",
+          "descripcion": "Localizar"
+        },
+        {
+          "verbo": "identificar",
+          "descripcion": "Identificar"
+        },
+        {
+          "verbo": "reconocer",
+          "descripcion": "Reconocer"
+        },
+        {
+          "verbo": "discriminar",
+          "descripcion": "Discriminar"
+        },
+        {
+          "verbo": "parafrasear",
+          "descripcion": "Parafrasear"
+        },
+        {
+          "verbo": "relacionar",
+          "descripcion": "Relacionar"
+        },
+        {
+          "verbo": "verificar",
+          "descripcion": "Verificar"
+        }
+      ],
+      "dificultades_previsibles": [
+        {
+          "dificultad": "Asigna el significado más frecuente sin considerar el contexto."
+        },
+        {
+          "dificultad": "Confunde información explícita con inferencia."
+        },
+        {
+          "dificultad": "No resuelve referentes pronominales."
+        },
+        {
+          "dificultad": "Selecciona datos por coincidencia léxica."
+        },
+        {
+          "dificultad": "Omite información visual explícita."
+        }
+      ],
+      "indicadores_pedagogicos": [
+        {
+          "indicador": "Explica significados mediante claves del texto."
+        },
+        {
+          "indicador": "Localiza información y distingue datos cercanos."
+        },
+        {
+          "indicador": "Reconoce personajes, acciones, espacios y tiempos."
+        },
+        {
+          "indicador": "Establece antecedentes de pronombres."
+        },
+        {
+          "indicador": "Integra información verbal y no verbal."
+        }
+      ]
+    },
+    {
+      "codigo_afirmacion": "LC-AF-02",
+      "texto_afirmacion": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "evidencias_referenciadas": [
+        "LC-EV-02-01",
+        "LC-EV-02-02",
+        "LC-EV-02-03",
+        "LC-EV-02-04",
+        "LC-EV-02-05"
+      ],
+      "alcance_pedagogico": "Construcción del sentido global mediante la articulación de partes, voces, ideas y elementos verbales o gráficos.",
+      "tareas_asociadas": [
+        {
+          "descripcion": "Reconocer la estructura y función de las partes."
+        },
+        {
+          "descripcion": "Establecer relaciones lógicas entre enunciados."
+        },
+        {
+          "descripcion": "Identificar y caracterizar voces."
+        },
+        {
+          "descripcion": "Jerarquizar ideas y afirmaciones."
+        },
+        {
+          "descripcion": "Construir una síntesis global."
+        },
+        {
+          "descripcion": "Interpretar textos discontinuos."
+        }
+      ],
+      "saberes": {
+        "conceptuales": [
+          {
+            "descripcion": "Estructuras textuales."
+          },
+          {
+            "descripcion": "Funciones discursivas."
+          },
+          {
+            "descripcion": "Relaciones lógico-semánticas."
+          },
+          {
+            "descripcion": "Coherencia y cohesión."
+          },
+          {
+            "descripcion": "Voces y puntos de vista."
+          },
+          {
+            "descripcion": "Tema, tesis y conclusión."
+          },
+          {
+            "descripcion": "Convenciones gráficas."
+          }
+        ],
+        "procedimentales": [
+          {
+            "descripcion": "Segmentar el texto."
+          },
+          {
+            "descripcion": "Rastrear conectores."
+          },
+          {
+            "descripcion": "Jerarquizar ideas."
+          },
+          {
+            "descripcion": "Comparar voces."
+          },
+          {
+            "descripcion": "Formular síntesis."
+          },
+          {
+            "descripcion": "Integrar texto e imagen."
+          },
+          {
+            "descripcion": "Verificar la interpretación."
+          }
+        ]
+      },
+      "operaciones_cognitivas": [
+        {
+          "verbo": "relacionar",
+          "descripcion": "Relacionar"
+        },
+        {
+          "verbo": "integrar",
+          "descripcion": "Integrar"
+        },
+        {
+          "verbo": "jerarquizar",
+          "descripcion": "Jerarquizar"
+        },
+        {
+          "verbo": "caracterizar",
+          "descripcion": "Caracterizar"
+        },
+        {
+          "verbo": "inferir",
+          "descripcion": "Inferir"
+        },
+        {
+          "verbo": "sintetizar",
+          "descripcion": "Sintetizar"
+        },
+        {
+          "verbo": "comparar",
+          "descripcion": "Comparar"
+        },
+        {
+          "verbo": "secuenciar",
+          "descripcion": "Secuenciar"
+        },
+        {
+          "verbo": "verificar",
+          "descripcion": "Verificar"
+        }
+      ],
+      "dificultades_previsibles": [
+        {
+          "dificultad": "Comprende fragmentos, pero no los integra."
+        },
+        {
+          "dificultad": "Confunde idea principal con detalle."
+        },
+        {
+          "dificultad": "Interpreta mal conectores."
+        },
+        {
+          "dificultad": "No diferencia voces."
+        },
+        {
+          "dificultad": "Asigna una función incorrecta a un fragmento."
+        },
+        {
+          "dificultad": "Integra parcialmente textos discontinuos."
+        },
+        {
+          "dificultad": "Introduce conclusiones no respaldadas."
+        }
+      ],
+      "indicadores_pedagogicos": [
+        {
+          "indicador": "Explica la función de un fragmento."
+        },
+        {
+          "indicador": "Establece relaciones entre párrafos."
+        },
+        {
+          "indicador": "Distingue voces y posiciones."
+        },
+        {
+          "indicador": "Jerarquiza tesis, razones y ejemplos."
+        },
+        {
+          "indicador": "Formula síntesis compatibles."
+        },
+        {
+          "indicador": "Interpreta relaciones en textos discontinuos."
+        }
+      ]
+    },
+    {
+      "codigo_afirmacion": "LC-AF-03",
+      "texto_afirmacion": "Reflexiona a partir de un texto y evalúa su contenido.",
+      "evidencias_referenciadas": [
+        "LC-EV-03-01",
+        "LC-EV-03-02",
+        "LC-EV-03-03",
+        "LC-EV-03-04",
+        "LC-EV-03-05"
+      ],
+      "alcance_pedagogico": "Lectura propiamente crítica: validez, implicaciones, intertextualidad, valoraciones, estrategias discursivas y contexto.",
+      "tareas_asociadas": [
+        {
+          "descripcion": "Evaluar validez y pertinencia de argumentos."
+        },
+        {
+          "descripcion": "Derivar implicaciones y supuestos."
+        },
+        {
+          "descripcion": "Relacionar textos y perspectivas."
+        },
+        {
+          "descripcion": "Reconocer valoraciones y sesgos."
+        },
+        {
+          "descripcion": "Analizar estrategias discursivas."
+        },
+        {
+          "descripcion": "Contextualizar el texto."
+        },
+        {
+          "descripcion": "Valorar forma, propósito y audiencia."
+        }
+      ],
+      "saberes": {
+        "conceptuales": [
+          {
+            "descripcion": "Tesis, argumentos y evidencias."
+          },
+          {
+            "descripcion": "Validez, pertinencia y suficiencia."
+          },
+          {
+            "descripcion": "Estrategias retóricas."
+          },
+          {
+            "descripcion": "Sesgo y posicionamiento."
+          },
+          {
+            "descripcion": "Intención y audiencia."
+          },
+          {
+            "descripcion": "Contextos sociales e históricos."
+          },
+          {
+            "descripcion": "Relaciones intertextuales."
+          },
+          {
+            "descripcion": "Recursos multimodales."
+          }
+        ],
+        "procedimentales": [
+          {
+            "descripcion": "Reconstruir líneas argumentativas."
+          },
+          {
+            "descripcion": "Distinguir hechos y opiniones."
+          },
+          {
+            "descripcion": "Contrastar afirmaciones con evidencia."
+          },
+          {
+            "descripcion": "Comparar textos."
+          },
+          {
+            "descripcion": "Identificar marcas de sesgo."
+          },
+          {
+            "descripcion": "Relacionar forma, propósito y audiencia."
+          },
+          {
+            "descripcion": "Derivar implicaciones controladas."
+          },
+          {
+            "descripcion": "Formular y revisar juicios críticos."
+          }
+        ]
+      },
+      "operaciones_cognitivas": [
+        {
+          "verbo": "evaluar",
+          "descripcion": "Evaluar"
+        },
+        {
+          "verbo": "reflexionar",
+          "descripcion": "Reflexionar"
+        },
+        {
+          "verbo": "contrastar",
+          "descripcion": "Contrastar"
+        },
+        {
+          "verbo": "inferir",
+          "descripcion": "Inferir"
+        },
+        {
+          "verbo": "contextualizar",
+          "descripcion": "Contextualizar"
+        },
+        {
+          "verbo": "reconocer",
+          "descripcion": "Reconocer"
+        },
+        {
+          "verbo": "analizar",
+          "descripcion": "Analizar"
+        },
+        {
+          "verbo": "determinar",
+          "descripcion": "Determinar"
+        },
+        {
+          "verbo": "justificar",
+          "descripcion": "Justificar"
+        },
+        {
+          "verbo": "autorregular",
+          "descripcion": "Autorregular"
+        }
+      ],
+      "dificultades_previsibles": [
+        {
+          "dificultad": "Confunde evaluación con opinión personal."
+        },
+        {
+          "dificultad": "Acepta conclusiones sin verificar razones."
+        },
+        {
+          "dificultad": "No distingue hechos y valoraciones."
+        },
+        {
+          "dificultad": "Reconoce recursos sin explicar su función."
+        },
+        {
+          "dificultad": "Excede las implicaciones permitidas."
+        },
+        {
+          "dificultad": "Compara textos solo por tema."
+        },
+        {
+          "dificultad": "Descontextualiza el texto."
+        },
+        {
+          "dificultad": "No reconoce sesgos o estereotipos."
+        }
+      ],
+      "indicadores_pedagogicos": [
+        {
+          "indicador": "Evalúa tesis, razones y evidencias."
+        },
+        {
+          "indicador": "Distingue hechos, opiniones y supuestos."
+        },
+        {
+          "indicador": "Relaciona textos por posturas y estrategias."
+        },
+        {
+          "indicador": "Reconoce valoraciones y sesgos."
+        },
+        {
+          "indicador": "Explica recursos retóricos."
+        },
+        {
+          "indicador": "Contextualiza el texto."
+        },
+        {
+          "indicador": "Formula y revisa juicios sustentados."
+        }
+      ]
+    }
+  ]
+}
